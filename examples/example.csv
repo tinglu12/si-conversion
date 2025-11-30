@@ -1,0 +1,1449 @@
+Subject/Course/Section,Student,"Date, Time Started",Visit Time Hours,Student ID,Email,Major
+BIO104 B040 20252,"Holder, Ezinma","2025-02-03, 10:21am",0.53,939230,eholder@me.bergen.edu,GENPS/
+,"Holder, Ezinma visits: 1",Visits: 1,Hours: 0.53,,,
+,"Tope, Telma Eliane","2025-01-22, 10:13am",0.87,871354,ttope@me.bergen.edu,NURS/
+,"Tope, Telma Eliane visits: 1",Visits: 1,Hours: 0.87,,,
+BIO104 B040 20252 visits: 2,,Visits: 2,Hours: 1.40,,,
+BIO104 B041 20252,"Chaparro, Suehaylee","2025-01-27, 10:26am",0.42,907574,schaparro153238@me.bergen.edu,RESP/
+,,"2025-01-29, 10:22am",0.48,907574,schaparro153238@me.bergen.edu,RESP/
+,,"2025-02-17, 10:02am",0.82,907574,schaparro153238@me.bergen.edu,RESP/
+,,"2025-02-24, 10:02am",0.83,907574,schaparro153238@me.bergen.edu,RESP/
+,,"2025-02-26, 10:22am",0.2,907574,schaparro153238@me.bergen.edu,RESP/
+,"Chaparro, Suehaylee visits: 5",Visits: 5,Hours: 2.75,,,
+,"Dennis, Karen","2025-01-22, 10:13am",0.87,450611,kdennis79573@me.bergen.edu,GENPS/
+,,"2025-01-29, 10:22am",0.48,450611,kdennis79573@me.bergen.edu,GENPS/
+,,"2025-02-24, 10:01am",0.85,450611,kdennis79573@me.bergen.edu,GENPS/
+,,"2025-02-26, 10:00am",0.85,450611,kdennis79573@me.bergen.edu,GENPS/
+,,"2025-03-03, 9:58am",0.9,450611,kdennis79573@me.bergen.edu,GENPS/
+,,"2025-04-07, 10:30am",0.37,450611,kdennis79573@me.bergen.edu,GENPS/
+,"Dennis, Karen visits: 6",Visits: 6,Hours: 4.32,,,
+,"Kassai, Ashley","2025-02-03, 10:00am",0.87,823444,akassai@me.bergen.edu,GENPS/
+,"Kassai, Ashley visits: 1",Visits: 1,Hours: 0.87,,,
+,"Park, Josh","2025-01-22, 10:12am",0.87,559083,joshpark85@gmail.com,GENPS/
+,,"2025-01-27, 10:00am",0.85,559083,joshpark85@gmail.com,GENPS/
+,,"2025-01-29, 10:00am",0.85,559083,joshpark85@gmail.com,GENPS/
+,,"2025-02-03, 10:00am",0.87,559083,joshpark85@gmail.com,GENPS/
+,,"2025-02-17, 10:01am",0.83,559083,joshpark85@gmail.com,GENPS/
+,,"2025-02-24, 10:30am",0.37,559083,joshpark85@gmail.com,GENPS/
+,,"2025-02-26, 10:04am",0.79,559083,joshpark85@gmail.com,GENPS/
+,,"2025-03-03, 10:00am",0.87,559083,joshpark85@gmail.com,GENPS/
+,"Park, Josh visits: 8",Visits: 8,Hours: 6.30,,,
+BIO104 B041 20252 visits: 20,,Visits: 20,Hours: 14.24,,,
+BIO104 B042 20252,"Greenberg, Maya","2025-01-22, 10:12am",0.87,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-01-27, 10:01am",0.45,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-01-29, 10:00am",0.38,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-02-03, 10:00am",0.87,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-02-17, 10:02am",0.83,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-02-24, 10:00am",0.85,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-02-26, 10:04am",0.79,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-03-03, 10:00am",0.87,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-03-17, 3:59pm",0.87,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-03-24, 10:00am",0.83,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-03-24, 10:01am",1.5,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-03-26, 10:03am",1.12,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-03-31, 10:16am",0.6,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-04-07, 10:01am",0.85,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-04-09, 10:01am",1.5,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-04-14, 10:01am",0.85,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-04-16, 10:01am",0.88,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-04-23, 10:02am",0.82,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-04-28, 10:23am",0.85,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-04-30, 10:01am",0.88,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,,"2025-05-05, 10:01am",0.85,768450,mgreenberg148939@me.bergen.edu,NDEG/
+,"Greenberg, Maya visits: 21",Visits: 21,Hours: 18.31,,,
+,"Martinez, Ashley","2025-03-17, 4:00pm",0.86,912122,amartinez154753@me.bergen.edu,GENPS/
+,,"2025-03-24, 10:00am",0.83,912122,amartinez154753@me.bergen.edu,GENPS/
+,,"2025-04-14, 10:18am",0.57,912122,amartinez154753@me.bergen.edu,GENPS/
+,,"2025-04-16, 10:01am",0.87,912122,amartinez154753@me.bergen.edu,GENPS/
+,,"2025-04-23, 10:01am",0.87,912122,amartinez154753@me.bergen.edu,GENPS/
+,"Martinez, Ashley visits: 5",Visits: 5,Hours: 4.00,,,
+BIO104 B042 20252 visits: 26,,Visits: 26,Hours: 22.31,,,
+BIO203 010 20252,"Shah, Dhruva","2025-01-22, 11:15am",0.12,941390,dshah166929@me.bergen.edu,BIO/
+,"Shah, Dhruva visits: 1",Visits: 1,Hours: 0.12,,,
+BIO203 010 20252 visits: 1,,Visits: 1,Hours: 0.12,,,
+CHM100 002 20252,"Woodside, Tatiana","2025-02-19, 5:17pm",0.82,917292,twoodside@me.bergen.edu,GENAS/
+,,"2025-02-24, 5:18pm",0.8,917292,twoodside@me.bergen.edu,GENAS/
+,,"2025-02-26, 5:20pm",0.75,917292,twoodside@me.bergen.edu,GENAS/
+,,"2025-03-05, 5:26pm",0.68,917292,twoodside@me.bergen.edu,GENAS/
+,,"2025-03-17, 5:20pm",0.83,917292,twoodside@me.bergen.edu,GENAS/
+,,"2025-03-19, 5:18pm",0.77,917292,twoodside@me.bergen.edu,GENAS/
+,,"2025-04-07, 5:15pm",0.75,917292,twoodside@me.bergen.edu,GENAS/
+,,"2025-04-09, 5:18pm",0.85,917292,twoodside@me.bergen.edu,GENAS/
+,,"2025-04-16, 5:17pm",0.93,917292,twoodside@me.bergen.edu,GENAS/
+,,"2025-04-21, 5:20pm",0.77,917292,twoodside@me.bergen.edu,GENAS/
+,,"2025-04-23, 5:18pm",0.87,917292,twoodside@me.bergen.edu,GENAS/
+,,"2025-04-28, 5:16pm",0.88,917292,twoodside@me.bergen.edu,GENAS/
+,"Woodside, Tatiana visits: 12",Visits: 12,Hours: 9.70,,,
+CHM100 002 20252 visits: 12,,Visits: 12,Hours: 9.70,,,
+CHM100 020 20252,"Gajee, Sara","2025-02-12, 5:15pm",0.7,889175,sgajee@me.bergen.edu,SOCWK/
+,,"2025-03-03, 5:34pm",0.54,889175,sgajee@me.bergen.edu,SOCWK/
+,"Gajee, Sara visits: 2",Visits: 2,Hours: 1.24,,,
+,"Gonzales, Christine Nicole","2025-01-27, 5:14pm",0.92,909325,cgonzales153777@me.bergen.edu,BUAD/
+,,"2025-02-10, 5:16pm",0.87,909325,cgonzales153777@me.bergen.edu,BUAD/
+,,"2025-02-24, 5:18pm",0.78,909325,cgonzales153777@me.bergen.edu,BUAD/
+,"Gonzales, Christine Nicole visits: 3",Visits: 3,Hours: 2.57,,,
+,"Rizzo, Sarina","2025-02-24, 5:19pm",1,652234,srizzo157266@me.bergen.edu,GENPS/
+,"Rizzo, Sarina visits: 1",Visits: 1,Hours: 1.00,,,
+,"Tacchi, Ryan","2025-03-03, 5:27pm",0.68,912205,rtacchi@me.bergen.edu,CRIM/
+,,"2025-03-05, 5:28pm",0.65,912205,rtacchi@me.bergen.edu,CRIM/
+,"Tacchi, Ryan visits: 2",Visits: 2,Hours: 1.33,,,
+CHM100 020 20252 visits: 8,,Visits: 8,Hours: 6.14,,,
+CHM100 060 20252,"Blythe, Abigail","2025-01-22, 5:18pm",0.85,875886,ablythe143108@me.bergen.edu,BIO/
+,,"2025-01-27, 5:22pm",0.78,875886,ablythe143108@me.bergen.edu,BIO/
+,,"2025-01-29, 5:17pm",0.85,875886,ablythe143108@me.bergen.edu,BIO/
+,,"2025-02-03, 5:15pm",0.87,875886,ablythe143108@me.bergen.edu,BIO/
+,,"2025-02-05, 5:15pm",0.9,875886,ablythe143108@me.bergen.edu,BIO/
+,,"2025-02-10, 5:15pm",0.88,875886,ablythe143108@me.bergen.edu,BIO/
+,,"2025-02-17, 5:15pm",0.88,875886,ablythe143108@me.bergen.edu,BIO/
+,,"2025-02-19, 5:16pm",0.82,875886,ablythe143108@me.bergen.edu,BIO/
+,"Blythe, Abigail visits: 8",Visits: 8,Hours: 6.83,,,
+,"Canning, Alexis","2025-01-27, 5:14pm",0.88,626086,acanning@me.bergen.edu,GENAA/
+,"Canning, Alexis visits: 1",Visits: 1,Hours: 0.88,,,
+,"De la Torre, Isabella","2025-01-27, 5:23pm",0.75,941047,idelatorre@me.bergen.edu,GENAS/
+,,"2025-02-05, 5:14pm",0.93,941047,idelatorre@me.bergen.edu,GENAS/
+,,"2025-02-10, 5:14pm",0.88,941047,idelatorre@me.bergen.edu,GENAS/
+,,"2025-03-31, 5:15pm",0.88,941047,idelatorre@me.bergen.edu,GENAS/
+,"De la Torre, Isabella visits: 4",Visits: 4,Hours: 3.44,,,
+,"Ismayilzada, Aghasi","2025-01-22, 5:15pm",0.88,919873,aismayilzada@me.bergen.edu,GENAS/
+,,"2025-01-27, 5:15pm",0.88,919873,aismayilzada@me.bergen.edu,GENAS/
+,,"2025-01-29, 5:16pm",0.87,919873,aismayilzada@me.bergen.edu,GENAS/
+,,"2025-02-10, 5:14pm",0.15,919873,aismayilzada@me.bergen.edu,GENAS/
+,,"2025-03-03, 5:31pm",0.6,919873,aismayilzada@me.bergen.edu,GENAS/
+,"Ismayilzada, Aghasi visits: 5",Visits: 5,Hours: 3.38,,,
+,"Magalias, Jonathan","2025-03-03, 5:18pm",0.85,928576,jmagalias@me.bergen.edu,BIO/
+,,"2025-03-17, 5:16pm",0.92,928576,jmagalias@me.bergen.edu,BIO/
+,,"2025-03-19, 5:17pm",0.75,928576,jmagalias@me.bergen.edu,BIO/
+,,"2025-03-24, 5:16pm",1.05,928576,jmagalias@me.bergen.edu,BIO/
+,,"2025-03-26, 5:17pm",0.83,928576,jmagalias@me.bergen.edu,BIO/
+,,"2025-03-31, 5:16pm",0.9,928576,jmagalias@me.bergen.edu,BIO/
+,,"2025-04-09, 5:23pm",0.8,928576,jmagalias@me.bergen.edu,BIO/
+,,"2025-04-14, 5:27pm",0.67,928576,jmagalias@me.bergen.edu,BIO/
+,,"2025-04-16, 5:18pm",0.92,928576,jmagalias@me.bergen.edu,BIO/
+,,"2025-04-21, 5:20pm",0.78,928576,jmagalias@me.bergen.edu,BIO/
+,,"2025-04-23, 5:21pm",0.8,928576,jmagalias@me.bergen.edu,BIO/
+,,"2025-04-30, 3:00pm",1.5,928576,jmagalias@me.bergen.edu,BIO/
+,"Magalias, Jonathan visits: 12",Visits: 12,Hours: 10.77,,,
+,"Rahmani, Yasmine","2025-01-22, 5:27pm",0.67,938054,yrahmani@me.bergen.edu,GENAS/
+,,"2025-02-26, 5:18pm",0.77,938054,yrahmani@me.bergen.edu,GENAS/
+,"Rahmani, Yasmine visits: 2",Visits: 2,Hours: 1.44,,,
+,"Reh, Daniel","2025-01-22, 5:17pm",1,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-01-27, 5:16pm",0.98,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-01-29, 5:15pm",0.88,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-02-03, 5:14pm",0.88,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-02-05, 5:16pm",0.87,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-02-10, 5:15pm",0.9,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-02-19, 5:16pm",0.83,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-02-24, 5:17pm",0.88,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-02-26, 5:19pm",0.75,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-03-17, 5:16pm",0.87,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-03-19, 5:17pm",0.8,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-03-26, 5:16pm",0.85,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-04-09, 5:15pm",0.92,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-04-14, 5:17pm",0.75,775619,dreh@me.bergen.edu,NDEG/
+,,"2025-04-16, 5:16pm",0.9,775619,dreh@me.bergen.edu,NDEG/
+,"Reh, Daniel visits: 15",Visits: 15,Hours: 13.06,,,
+,"Uddin, Taain","2025-01-22, 5:16pm",0.87,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-01-27, 5:15pm",0.9,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-01-29, 5:16pm",0.85,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-02-03, 5:15pm",0.87,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-02-05, 5:16pm",0.87,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-02-10, 5:37pm",0.52,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-02-17, 5:15pm",0.88,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-02-19, 5:15pm",0.87,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-02-24, 5:17pm",0.8,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-02-26, 5:19pm",0.77,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-03-03, 5:15pm",0.61,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-03-05, 5:27pm",0.65,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-03-17, 5:17pm",0.88,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-03-19, 5:18pm",0.72,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-03-24, 5:16pm",1.03,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-03-26, 5:17pm",0.82,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-04-09, 5:29pm",1.5,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-04-14, 5:17pm",0.82,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-04-16, 5:16pm",0.93,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-04-21, 5:20pm",0.77,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-04-23, 5:17pm",0.87,922193,tuddin158252@me.bergen.edu,GENAS/
+,,"2025-04-28, 5:16pm",0.85,922193,tuddin158252@me.bergen.edu,GENAS/
+,"Uddin, Taain visits: 22",Visits: 22,Hours: 18.65,,,
+CHM100 060 20252 visits: 69,,Visits: 69,Hours: 58.45,,,
+CHM112 001 20252,"Logan, Todd","2025-04-10, 1:04pm",0.92,453701,tlogan@me.bergen.edu,GENPS/
+,"Logan, Todd visits: 1",Visits: 1,Hours: 0.92,,,
+CHM112 001 20252 visits: 1,,Visits: 1,Hours: 0.92,,,
+CHM112 002 20252,"Mandeville, Tiffany","2025-01-27, 1:26pm",0.48,839433,tmandeville@me.bergen.edu,GENPS/
+,"Mandeville, Tiffany visits: 1",Visits: 1,Hours: 0.48,,,
+CHM112 002 20252 visits: 1,,Visits: 1,Hours: 0.48,,,
+CHM112 020 20252,"Roman, Gloria","2025-01-30, 3:17pm",0.8,538096,groman10@me.bergen.edu,GENAS/
+,"Roman, Gloria visits: 1",Visits: 1,Hours: 0.80,,,
+,"Soltys, Klara","2025-01-27, 1:26pm",0.5,921825,ksoltys158243@me.bergen.edu,GENPS/
+,,"2025-01-30, 3:16pm",0.8,921825,ksoltys158243@me.bergen.edu,GENPS/
+,,"2025-03-03, 1:02pm",0.78,921825,ksoltys158243@me.bergen.edu,GENPS/
+,,"2025-03-17, 1:02pm",0.81,921825,ksoltys158243@me.bergen.edu,GENPS/
+,,"2025-03-24, 1:01pm",0.92,921825,ksoltys158243@me.bergen.edu,GENPS/
+,,"2025-03-31, 1:02pm",0.93,921825,ksoltys158243@me.bergen.edu,GENPS/
+,,"2025-04-14, 12:59pm",1.5,921825,ksoltys158243@me.bergen.edu,GENPS/
+,,"2025-04-17, 12:00pm",0.83,921825,ksoltys158243@me.bergen.edu,GENPS/
+,,"2025-04-21, 1:02pm",1,921825,ksoltys158243@me.bergen.edu,GENPS/
+,,"2025-04-24, 1:11pm",0.78,921825,ksoltys158243@me.bergen.edu,GENPS/
+,"Soltys, Klara visits: 10",Visits: 10,Hours: 8.85,,,
+CHM112 020 20252 visits: 11,,Visits: 11,Hours: 9.65,,,
+CHM112 040 20252,"Escobar, Jose","2025-01-30, 1:14pm",0.72,926842,jescobar160324@me.bergen.edu,GENPS/
+,"Escobar, Jose visits: 1",Visits: 1,Hours: 0.72,,,
+,"Higuchi, Yumi","2025-03-17, 3:23pm",0.73,885380,yhiguchi145631@me.bergen.edu,NDEG/
+,"Higuchi, Yumi visits: 1",Visits: 1,Hours: 0.73,,,
+,"Kopic, Sarai","2025-01-30, 1:05pm",0.87,544601,skopic@me.bergen.edu,GENPS/
+,,"2025-02-24, 12:57pm",0.85,544601,skopic@me.bergen.edu,GENPS/
+,"Kopic, Sarai visits: 2",Visits: 2,Hours: 1.72,,,
+,"Moutari Kalla, Hadjara","2025-02-10, 1:15pm",0.68,779824,hmoutarikalla@me.bergen.edu,GENPS/
+,,"2025-02-10, 1:58pm",1.5,779824,hmoutarikalla@me.bergen.edu,GENPS/
+,,"2025-02-20, 1:11pm",0.48,779824,hmoutarikalla@me.bergen.edu,GENPS/
+,,"2025-03-31, 3:15pm",0.85,779824,hmoutarikalla@me.bergen.edu,GENPS/
+,,"2025-04-07, 1:05pm",0.9,779824,hmoutarikalla@me.bergen.edu,GENPS/
+,,"2025-04-10, 1:04pm",0.9,779824,hmoutarikalla@me.bergen.edu,GENPS/
+,"Moutari Kalla, Hadjara visits: 6",Visits: 6,Hours: 5.31,,,
+CHM112 040 20252 visits: 10,,Visits: 10,Hours: 8.48,,,
+CHM112 041 20252,"Garcia, Samara","2025-01-23, 3:40pm",0.48,903081,sgarcia151626@me.bergen.edu,GENPS/
+,,"2025-01-30, 3:19pm",0.78,903081,sgarcia151626@me.bergen.edu,GENPS/
+,,"2025-02-06, 3:17pm",1.05,903081,sgarcia151626@me.bergen.edu,GENPS/
+,,"2025-02-20, 3:15pm",0.87,903081,sgarcia151626@me.bergen.edu,GENPS/
+,"Garcia, Samara visits: 4",Visits: 4,Hours: 3.18,,,
+,"Jeon, Kellie","2025-01-23, 3:33pm",0.6,809238,kjeon120230@me.bergen.edu,NDEG/
+,,"2025-01-30, 3:17pm",0.8,809238,kjeon120230@me.bergen.edu,NDEG/
+,,"2025-02-06, 3:16pm",1.05,809238,kjeon120230@me.bergen.edu,NDEG/
+,,"2025-02-10, 3:34pm",0.77,809238,kjeon120230@me.bergen.edu,NDEG/
+,,"2025-02-17, 3:33pm",0.58,809238,kjeon120230@me.bergen.edu,NDEG/
+,,"2025-02-20, 3:14pm",0.87,809238,kjeon120230@me.bergen.edu,NDEG/
+,,"2025-03-03, 3:16pm",0.9,809238,kjeon120230@me.bergen.edu,NDEG/
+,"Jeon, Kellie visits: 7",Visits: 7,Hours: 5.57,,,
+,"Keller, Carlyn","2025-01-23, 3:41pm",0.48,924368,ckeller163652@me.bergen.edu,GENPS/
+,,"2025-01-30, 3:18pm",0.8,924368,ckeller163652@me.bergen.edu,GENPS/
+,,"2025-02-20, 3:15pm",0.88,924368,ckeller163652@me.bergen.edu,GENPS/
+,"Keller, Carlyn visits: 3",Visits: 3,Hours: 2.16,,,
+,"Ona, Rebecca","2025-01-30, 1:04pm",0.88,933433,rona163303@me.bergen.edu,GENPS/
+,"Ona, Rebecca visits: 1",Visits: 1,Hours: 0.88,,,
+,"Sieukaran, Pamela","2025-02-06, 3:17pm",1.05,947919,psieukaran@me.bergen.edu,GENPS/
+,"Sieukaran, Pamela visits: 1",Visits: 1,Hours: 1.05,,,
+CHM112 041 20252 visits: 16,,Visits: 16,Hours: 12.84,,,
+MAT150 012 20252,"Bruno, Angelie","2025-02-20, 9:00am",0.83,900028,abruno150538@me.bergen.edu,PSY/
+,"Bruno, Angelie visits: 1",Visits: 1,Hours: 0.83,,,
+,"Casano, Giovanna","2025-02-20, 9:00am",0.83,745098,gcasano@me.bergen.edu,GENPS/
+,"Casano, Giovanna visits: 1",Visits: 1,Hours: 0.83,,,
+,"Espichan, Catherine","2025-02-20, 9:00am",0.83,897730,cespichan@me.bergen.edu,BUAD/
+,"Espichan, Catherine visits: 1",Visits: 1,Hours: 0.83,,,
+,"Espinal, Gabriela","2025-02-20, 9:00am",0.83,933655,gespinal163471@me.bergen.edu,GENPS/
+,"Espinal, Gabriela visits: 1",Visits: 1,Hours: 0.83,,,
+,"Gomez, Emily","2025-03-17, 10:00am",1,880506,egomez143853@me.bergen.edu,HOSP/
+,,"2025-04-01, 12:36pm",0.75,880506,egomez143853@me.bergen.edu,HOSP/
+,,"2025-04-15, 12:30pm",0.83,880506,egomez143853@me.bergen.edu,HOSP/
+,"Gomez, Emily visits: 3",Visits: 3,Hours: 2.58,,,
+,"Hernandez, Olises","2025-03-20, 12:33pm",0.87,938331,ohernandez165641@me.bergen.edu,GENPS/
+,"Hernandez, Olises visits: 1",Visits: 1,Hours: 0.87,,,
+,"Hidalgo-Ruiz, Roy","2025-02-11, 12:29pm",0.65,910251,rhidalgo-ruiz@me.bergen.edu,BUAD/
+,,"2025-02-13, 12:38pm",0.7,910251,rhidalgo-ruiz@me.bergen.edu,BUAD/
+,,"2025-02-18, 12:33pm",0.42,910251,rhidalgo-ruiz@me.bergen.edu,BUAD/
+,,"2025-02-20, 9:00am",0.83,910251,rhidalgo-ruiz@me.bergen.edu,BUAD/
+,,"2025-02-27, 12:36pm",0.35,910251,rhidalgo-ruiz@me.bergen.edu,BUAD/
+,"Hidalgo-Ruiz, Roy visits: 5",Visits: 5,Hours: 2.95,,,
+,"Lee, Sean","2025-02-20, 9:00am",0.83,898247,slee149904@me.bergen.edu,COMM/
+,"Lee, Sean visits: 1",Visits: 1,Hours: 0.83,,,
+,"Leon, Miranda","2025-04-08, 12:34pm",0.87,900399,mleon150655@me.bergen.edu,AIRC/
+,"Leon, Miranda visits: 1",Visits: 1,Hours: 0.87,,,
+,"Loscalzo, Ella","2025-02-13, 12:29pm",0.85,939956,eloscalzo@me.bergen.edu,BUAD/
+,,"2025-02-18, 12:29pm",0.93,939956,eloscalzo@me.bergen.edu,BUAD/
+,,"2025-02-20, 9:00am",0.83,939956,eloscalzo@me.bergen.edu,BUAD/
+,,"2025-04-01, 12:24pm",0.85,939956,eloscalzo@me.bergen.edu,BUAD/
+,"Loscalzo, Ella visits: 4",Visits: 4,Hours: 3.46,,,
+,"Park, Douglas","2025-04-07, 10:00am",0.83,563516,dpark38505@me.bergen.edu,BUAD/
+,"Park, Douglas visits: 1",Visits: 1,Hours: 0.83,,,
+,"Radzinski, Victoria","2025-03-03, 10:00am",1,524630,vradzinski@me.bergen.edu,EDU/
+,"Radzinski, Victoria visits: 1",Visits: 1,Hours: 1.00,,,
+,"Setti, Liam","2025-01-23, 12:53pm",0.42,594530,lsetti@me.bergen.edu,GENAA/
+,,"2025-01-28, 12:26pm",0.58,594530,lsetti@me.bergen.edu,GENAA/
+,,"2025-01-30, 12:33pm",0.62,594530,lsetti@me.bergen.edu,GENAA/
+,,"2025-02-04, 12:26pm",0.88,594530,lsetti@me.bergen.edu,GENAA/
+,,"2025-02-13, 12:30pm",0.85,594530,lsetti@me.bergen.edu,GENAA/
+,,"2025-02-18, 12:52pm",0.53,594530,lsetti@me.bergen.edu,GENAA/
+,,"2025-03-06, 12:28pm",0.92,594530,lsetti@me.bergen.edu,GENAA/
+,,"2025-03-27, 12:30pm",0.5,594530,lsetti@me.bergen.edu,GENAA/
+,"Setti, Liam visits: 8",Visits: 8,Hours: 5.30,,,
+,"Syed, Maliha","2025-02-04, 12:27pm",0.88,936529,msyed@me.bergen.edu,PLSC/
+,"Syed, Maliha visits: 1",Visits: 1,Hours: 0.88,,,
+MAT150 012 20252 visits: 30,,Visits: 30,Hours: 22.89,,,
+MAT150 020 20252,"Aguilar, Kayly","2025-01-28, 12:32pm",0.82,868299,kaguilar139714@me.bergen.edu,GENPS/
+,"Aguilar, Kayly visits: 1",Visits: 1,Hours: 0.82,,,
+,"Boyd, Nicole","2025-01-23, 12:34pm",0.78,871647,nboyd143449@me.bergen.edu,GENPS/
+,,"2025-01-30, 12:29pm",0.9,871647,nboyd143449@me.bergen.edu,GENPS/
+,,"2025-02-04, 12:26pm",0.87,871647,nboyd143449@me.bergen.edu,GENPS/
+,,"2025-02-13, 12:28pm",0.8,871647,nboyd143449@me.bergen.edu,GENPS/
+,,"2025-02-13, 1:18pm",1.5,871647,nboyd143449@me.bergen.edu,GENPS/
+,,"2025-02-27, 12:24pm",0.93,871647,nboyd143449@me.bergen.edu,GENPS/
+,"Boyd, Nicole visits: 6",Visits: 6,Hours: 5.78,,,
+,"Casano, Giovanna","2025-01-23, 12:33pm",0.75,745098,gcasano@me.bergen.edu,GENPS/
+,,"2025-01-28, 12:39pm",0.72,745098,gcasano@me.bergen.edu,GENPS/
+,,"2025-02-13, 12:57pm",0.4,745098,gcasano@me.bergen.edu,GENPS/
+,,"2025-02-18, 12:31pm",0.92,745098,gcasano@me.bergen.edu,GENPS/
+,,"2025-02-27, 12:32pm",0.83,745098,gcasano@me.bergen.edu,GENPS/
+,,"2025-03-25, 10:00am",0.83,745098,gcasano@me.bergen.edu,GENPS/
+,,"2025-04-01, 12:26pm",0.9,745098,gcasano@me.bergen.edu,GENPS/
+,,"2025-04-15, 12:30pm",0.83,745098,gcasano@me.bergen.edu,GENPS/
+,,"2025-05-06, 9:15am",0.75,745098,gcasano@me.bergen.edu,GENPS/
+,,"2025-05-06, 10:00am",0.83,745098,gcasano@me.bergen.edu,GENPS/
+,"Casano, Giovanna visits: 10",Visits: 10,Hours: 7.76,,,
+,"Colon, Angelys","2025-01-28, 12:32pm",0.83,904245,acolon152065@me.bergen.edu,NURS/
+,,"2025-01-30, 12:23pm",0.98,904245,acolon152065@me.bergen.edu,NURS/
+,,"2025-03-18, 12:30pm",0.82,904245,acolon152065@me.bergen.edu,NURS/
+,,"2025-04-01, 12:26pm",0.92,904245,acolon152065@me.bergen.edu,NURS/
+,,"2025-04-15, 12:30pm",0.83,904245,acolon152065@me.bergen.edu,NURS/
+,"Colon, Angelys visits: 5",Visits: 5,Hours: 4.38,,,
+,"Durgaj, Kristjana","2025-03-04, 12:35pm",0.8,900967,kdurgaj150864@me.bergen.edu,BUAD/
+,,"2025-03-25, 10:00am",0.83,900967,kdurgaj150864@me.bergen.edu,BUAD/
+,"Durgaj, Kristjana visits: 2",Visits: 2,Hours: 1.63,,,
+,"Espichan, Catherine","2025-01-23, 12:36pm",0.7,897730,cespichan@me.bergen.edu,BUAD/
+,,"2025-01-28, 12:33pm",1.5,897730,cespichan@me.bergen.edu,BUAD/
+,,"2025-01-30, 12:28pm",0.88,897730,cespichan@me.bergen.edu,BUAD/
+,,"2025-02-04, 12:26pm",0.87,897730,cespichan@me.bergen.edu,BUAD/
+,,"2025-02-11, 12:30pm",0.73,897730,cespichan@me.bergen.edu,BUAD/
+,,"2025-02-13, 12:31pm",0.92,897730,cespichan@me.bergen.edu,BUAD/
+,,"2025-02-18, 12:32pm",0.92,897730,cespichan@me.bergen.edu,BUAD/
+,,"2025-02-27, 12:34pm",0.78,897730,cespichan@me.bergen.edu,BUAD/
+,,"2025-03-18, 12:30pm",0.8,897730,cespichan@me.bergen.edu,BUAD/
+,,"2025-03-25, 10:00am",0.83,897730,cespichan@me.bergen.edu,BUAD/
+,"Espichan, Catherine visits: 10",Visits: 10,Hours: 8.93,,,
+,"Gonzalez, Arianna","2025-02-27, 12:33pm",0.77,841108,agonzalez129529@me.bergen.edu,PSY/
+,"Gonzalez, Arianna visits: 1",Visits: 1,Hours: 0.77,,,
+,"Joyce, Faith","2025-03-25, 10:00am",0.83,924641,fjoyce159561@me.bergen.edu,SOCWK/
+,"Joyce, Faith visits: 1",Visits: 1,Hours: 0.83,,,
+,"Lee, Sean","2025-02-13, 1:19pm",1.5,898247,slee149904@me.bergen.edu,COMM/
+,,"2025-03-25, 10:00am",0.83,898247,slee149904@me.bergen.edu,COMM/
+,,"2025-04-10, 9:00am",0.83,898247,slee149904@me.bergen.edu,COMM/
+,"Lee, Sean visits: 3",Visits: 3,Hours: 3.16,,,
+,"Liggio, Gianna","2025-02-20, 9:00am",0.83,928428,gliggio@me.bergen.edu,EXPLR/
+,,"2025-03-24, 10:00am",0.97,928428,gliggio@me.bergen.edu,EXPLR/
+,,"2025-03-25, 10:00am",0.83,928428,gliggio@me.bergen.edu,EXPLR/
+,,"2025-04-10, 9:00am",0.83,928428,gliggio@me.bergen.edu,EXPLR/
+,,"2025-05-06, 9:15am",0.75,928428,gliggio@me.bergen.edu,EXPLR/
+,,"2025-05-06, 10:00am",0.83,928428,gliggio@me.bergen.edu,EXPLR/
+,"Liggio, Gianna visits: 6",Visits: 6,Hours: 5.04,,,
+,"Messinger, William","2025-03-25, 10:00am",0.83,917464,wmessinger@me.bergen.edu,BUAD/
+,,"2025-05-06, 9:15am",0.75,917464,wmessinger@me.bergen.edu,BUAD/
+,,"2025-05-06, 10:00am",0.83,917464,wmessinger@me.bergen.edu,BUAD/
+,"Messinger, William visits: 3",Visits: 3,Hours: 2.41,,,
+,"Nicpon, Nicholas","2025-02-24, 10:00am",1,924289,nnicpon@me.bergen.edu,NDEG/
+,,"2025-03-03, 10:00am",0.83,924289,nnicpon@me.bergen.edu,NDEG/
+,,"2025-04-07, 10:00am",0.83,924289,nnicpon@me.bergen.edu,NDEG/
+,,"2025-04-14, 10:00am",0.5,924289,nnicpon@me.bergen.edu,NDEG/
+,,"2025-04-21, 10:00am",1,924289,nnicpon@me.bergen.edu,NDEG/
+,,"2025-04-28, 10:00am",1,924289,nnicpon@me.bergen.edu,NDEG/
+,"Nicpon, Nicholas visits: 6",Visits: 6,Hours: 5.16,,,
+,"O'Sullivan, Spencer","2025-02-20, 9:00am",0.83,922987,sosullivan158521@me.bergen.edu,BUAD/
+,,"2025-05-06, 9:15am",0.75,922987,sosullivan158521@me.bergen.edu,BUAD/
+,,"2025-05-06, 10:00am",0.83,922987,sosullivan158521@me.bergen.edu,BUAD/
+,"O'Sullivan, Spencer visits: 3",Visits: 3,Hours: 2.41,,,
+,"Rivero, Leean","2025-03-04, 12:36pm",0.82,933168,lrivero163205@me.bergen.edu,GENPS/
+,,"2025-03-18, 12:29pm",0.54,933168,lrivero163205@me.bergen.edu,GENPS/
+,,"2025-03-20, 12:29pm",0.9,933168,lrivero163205@me.bergen.edu,GENPS/
+,"Rivero, Leean visits: 3",Visits: 3,Hours: 2.26,,,
+,"Sarkissian, Colby","2025-01-28, 12:41pm",0.65,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-01-30, 12:32pm",0.87,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-02-04, 12:37pm",0.72,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-02-13, 12:31pm",0.83,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-02-18, 12:40pm",0.78,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-02-27, 12:37pm",0.72,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-03-04, 12:37pm",0.78,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-03-06, 12:28pm",0.92,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-03-20, 12:30pm",0.9,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-03-27, 12:34pm",0.83,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-04-01, 12:35pm",0.78,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-04-08, 12:35pm",0.83,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-04-10, 9:00am",0.83,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-04-15, 12:29pm",0.62,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-04-21, 10:00am",1,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-04-22, 12:26pm",0.02,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-04-22, 12:28pm",0.77,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-04-24, 12:30pm",0.92,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-04-28, 10:00am",1,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-04-29, 12:31pm",0.73,681288,csarkissian@me.bergen.edu,HORT/
+,,"2025-05-01, 12:28pm",0.67,681288,csarkissian@me.bergen.edu,HORT/
+,"Sarkissian, Colby visits: 21",Visits: 21,Hours: 16.17,,,
+,"Trinidad, Ashley","2025-01-23, 12:35pm",0.77,917075,atrinidad156499@me.bergen.edu,GENPS/
+,,"2025-01-28, 12:36pm",0.8,917075,atrinidad156499@me.bergen.edu,GENPS/
+,,"2025-02-13, 12:30pm",0.92,917075,atrinidad156499@me.bergen.edu,GENPS/
+,,"2025-02-18, 12:30pm",0.93,917075,atrinidad156499@me.bergen.edu,GENPS/
+,,"2025-02-27, 12:34pm",0.83,917075,atrinidad156499@me.bergen.edu,GENPS/
+,,"2025-03-25, 10:00am",0.83,917075,atrinidad156499@me.bergen.edu,GENPS/
+,"Trinidad, Ashley visits: 6",Visits: 6,Hours: 5.08,,,
+,"Vasquez Abreu, Jose","2025-01-23, 12:35pm",0.72,911607,jvasquezabreu@me.bergen.edu,GENPS/
+,,"2025-02-11, 12:29pm",0.75,911607,jvasquezabreu@me.bergen.edu,GENPS/
+,,"2025-02-27, 12:44pm",0.65,911607,jvasquezabreu@me.bergen.edu,GENPS/
+,,"2025-03-18, 12:30pm",0.83,911607,jvasquezabreu@me.bergen.edu,GENPS/
+,,"2025-04-22, 12:16pm",0.95,911607,jvasquezabreu@me.bergen.edu,GENPS/
+,,"2025-04-24, 12:30pm",0.92,911607,jvasquezabreu@me.bergen.edu,GENPS/
+,"Vasquez Abreu, Jose visits: 6",Visits: 6,Hours: 4.82,,,
+MAT150 020 20252 visits: 93,,Visits: 93,Hours: 77.41,,,
+MAT150 041 20252,"Iqbal, Hebah","2025-01-23, 12:37pm",0.68,925820,hiqbal@me.bergen.edu,BUAD/
+,"Iqbal, Hebah visits: 1",Visits: 1,Hours: 0.68,,,
+MAT150 041 20252 visits: 1,,Visits: 1,Hours: 0.68,,,
+MAT150 B315 20252,"Brown, Miranda","2025-04-07, 10:00am",0.83,940542,mbrown166581@me.bergen.edu,GENPS/
+,"Brown, Miranda visits: 1",Visits: 1,Hours: 0.83,,,
+MAT150 B315 20252 visits: 1,,Visits: 1,Hours: 0.83,,,
+MAT150 WC222 20252,"Katz, Tobias","2025-02-17, 10:00am",0.83,936560,tkatz@me.bergen.edu,BUAD/
+,"Katz, Tobias visits: 1",Visits: 1,Hours: 0.83,,,
+,"Lanes, Antwon","2025-01-30, 1:00pm",0.37,926489,alanes@me.bergen.edu,GENPS/
+,"Lanes, Antwon visits: 1",Visits: 1,Hours: 0.37,,,
+,"Urueta, Luis","2025-02-11, 1:01pm",0.42,608590,lurueta@me.bergen.edu,BUAD/
+,,"2025-04-01, 12:35pm",0.77,608590,lurueta@me.bergen.edu,BUAD/
+,,"2025-04-08, 12:32pm",0.9,608590,lurueta@me.bergen.edu,BUAD/
+,,"2025-04-17, 12:37pm",0.7,608590,lurueta@me.bergen.edu,BUAD/
+,,"2025-04-21, 10:00am",1,608590,lurueta@me.bergen.edu,BUAD/
+,,"2025-04-28, 10:00am",1,608590,lurueta@me.bergen.edu,BUAD/
+,,"2025-04-29, 12:33pm",0.8,608590,lurueta@me.bergen.edu,BUAD/
+,"Urueta, Luis visits: 7",Visits: 7,Hours: 5.59,,,
+MAT150 WC222 20252 visits: 9,,Visits: 9,Hours: 6.79,,,
+MAT180 050 20252,"Akdemir, Julia","2025-05-06, 2:21pm",0.42,912243,jakdemir154822@me.bergen.edu,ENG/
+,"Akdemir, Julia visits: 1",Visits: 1,Hours: 0.42,,,
+,"Baez, Gustavo","2025-02-04, 4:39pm",0.87,937377,gbaez165228@me.bergen.edu,ENG/
+,,"2025-02-25, 4:34pm",1,937377,gbaez165228@me.bergen.edu,ENG/
+,"Baez, Gustavo visits: 2",Visits: 2,Hours: 1.87,,,
+,"Boada, Fiona","2025-04-29, 2:21pm",0,865464,fboada@me.bergen.edu,GENPS/
+,,"2025-05-01, 2:56pm",0.88,865464,fboada@me.bergen.edu,GENPS/
+,,"2025-05-06, 1:37pm",1.13,865464,fboada@me.bergen.edu,GENPS/
+,"Boada, Fiona visits: 3",Visits: 3,Hours: 2.01,,,
+,"Cayetano, Oliver","2025-05-06, 2:20pm",0.42,932040,ocayetano@me.bergen.edu,ENG/
+,"Cayetano, Oliver visits: 1",Visits: 1,Hours: 0.42,,,
+,"Contreras, Mellkys","2025-02-04, 4:39pm",1.37,894656,mcontreras148828@me.bergen.edu,IT/
+,,"2025-02-06, 4:36pm",1.15,894656,mcontreras148828@me.bergen.edu,IT/
+,,"2025-02-11, 4:49pm",0.83,894656,mcontreras148828@me.bergen.edu,IT/
+,,"2025-03-06, 4:46pm",0.23,894656,mcontreras148828@me.bergen.edu,IT/
+,,"2025-04-15, 1:58pm",0.53,894656,mcontreras148828@me.bergen.edu,IT/
+,,"2025-04-17, 1:58pm",0.55,894656,mcontreras148828@me.bergen.edu,IT/
+,,"2025-05-01, 1:51pm",0.6,894656,mcontreras148828@me.bergen.edu,IT/
+,,"2025-05-01, 2:42pm",1.15,894656,mcontreras148828@me.bergen.edu,IT/
+,"Contreras, Mellkys visits: 8",Visits: 8,Hours: 6.41,,,
+,"Djuraev, Jafarkhon","2025-02-18, 2:46pm",0.7,887545,jdjuraev@me.bergen.edu,BUAD/
+,"Djuraev, Jafarkhon visits: 1",Visits: 1,Hours: 0.70,,,
+,"Fisher, Charlotte","2025-04-29, 1:30pm",1,717106,cfisher@me.bergen.edu,RAD/
+,"Fisher, Charlotte visits: 1",Visits: 1,Hours: 1.00,,,
+,"Galvan, Kevin","2025-02-04, 4:39pm",1.05,905063,kgalvan@me.bergen.edu,BUAD/
+,,"2025-04-03, 1:30pm",0.83,905063,kgalvan@me.bergen.edu,BUAD/
+,,"2025-04-15, 1:32pm",1.08,905063,kgalvan@me.bergen.edu,BUAD/
+,,"2025-04-17, 1:30pm",0.83,905063,kgalvan@me.bergen.edu,BUAD/
+,,"2025-04-22, 1:35pm",0.75,905063,kgalvan@me.bergen.edu,BUAD/
+,,"2025-04-24, 1:36pm",0.75,905063,kgalvan@me.bergen.edu,BUAD/
+,,"2025-04-29, 1:30pm",1,905063,kgalvan@me.bergen.edu,BUAD/
+,,"2025-05-01, 2:43pm",1.25,905063,kgalvan@me.bergen.edu,BUAD/
+,,"2025-05-06, 1:36pm",1.15,905063,kgalvan@me.bergen.edu,BUAD/
+,"Galvan, Kevin visits: 9",Visits: 9,Hours: 8.69,,,
+,"Kaondera-Shava, Runyararo Patricia","2025-01-28, 4:41pm",1.18,937213,rkaondera-shava@me.bergen.edu,ENG/
+,,"2025-05-01, 2:52pm",1,937213,rkaondera-shava@me.bergen.edu,ENG/
+,"Kaondera-Shava, Runyararo Patricia visits: 2",Visits: 2,Hours: 2.18,,,
+,"Lubkemeier, Jared","2025-05-06, 1:38pm",1.12,842296,jlubkemeier@me.bergen.edu,ECON/
+,"Lubkemeier, Jared visits: 1",Visits: 1,Hours: 1.12,,,
+,"Marshall-Pombo, Adam","2025-05-06, 1:35pm",1.15,907819,amarshall-pombo@me.bergen.edu,ENG/
+,"Marshall-Pombo, Adam visits: 1",Visits: 1,Hours: 1.15,,,
+,"Naveh, Yam","2025-01-23, 4:52pm",0.85,927521,ynaveh@me.bergen.edu,ENG/
+,,"2025-05-06, 1:35pm",1.15,927521,ynaveh@me.bergen.edu,ENG/
+,"Naveh, Yam visits: 2",Visits: 2,Hours: 2.00,,,
+,"Nicola, Gabriella","2025-02-04, 4:38pm",1.37,928481,gnicola160907@me.bergen.edu,AIRC/
+,,"2025-02-25, 4:34pm",1.03,928481,gnicola160907@me.bergen.edu,AIRC/
+,,"2025-03-18, 4:40pm",1.07,928481,gnicola160907@me.bergen.edu,AIRC/
+,,"2025-04-10, 2:00pm",0.5,928481,gnicola160907@me.bergen.edu,AIRC/
+,,"2025-04-29, 1:30pm",1,928481,gnicola160907@me.bergen.edu,AIRC/
+,,"2025-05-01, 1:38pm",0.83,928481,gnicola160907@me.bergen.edu,AIRC/
+,,"2025-05-01, 2:42pm",1.15,928481,gnicola160907@me.bergen.edu,AIRC/
+,"Nicola, Gabriella visits: 7",Visits: 7,Hours: 6.95,,,
+,"Olarte, Alejandro","2025-02-18, 2:46pm",0.72,911252,aolarte154477@me.bergen.edu,ENG/
+,"Olarte, Alejandro visits: 1",Visits: 1,Hours: 0.72,,,
+,"Perez Ramirez, Gail","2025-01-21, 5:01pm",1.05,883610,gperezramirez@me.bergen.edu,GENPS/
+,,"2025-01-30, 4:46pm",1.3,883610,gperezramirez@me.bergen.edu,GENPS/
+,,"2025-05-01, 2:57pm",0.9,883610,gperezramirez@me.bergen.edu,GENPS/
+,"Perez Ramirez, Gail visits: 3",Visits: 3,Hours: 3.25,,,
+,"Rahmani, Yasmine","2025-04-03, 1:43pm",0.87,938054,yrahmani@me.bergen.edu,GENAS/
+,,"2025-04-15, 1:30pm",0.83,938054,yrahmani@me.bergen.edu,GENAS/
+,,"2025-04-17, 1:30pm",0.83,938054,yrahmani@me.bergen.edu,GENAS/
+,,"2025-04-22, 1:35pm",0.75,938054,yrahmani@me.bergen.edu,GENAS/
+,,"2025-04-24, 1:36pm",0.75,938054,yrahmani@me.bergen.edu,GENAS/
+,"Rahmani, Yasmine visits: 5",Visits: 5,Hours: 4.03,,,
+,"Rikin, Regev","2025-04-03, 1:36pm",1,931378,rrikin@me.bergen.edu,ENG/
+,"Rikin, Regev visits: 1",Visits: 1,Hours: 1.00,,,
+,"Rivera, Milton","2025-02-18, 2:45pm",0.92,389374,mrivera16@me.bergen.edu,ENG/
+,,"2025-03-06, 4:42pm",0.83,389374,mrivera16@me.bergen.edu,ENG/
+,,"2025-04-29, 1:29pm",0.83,389374,mrivera16@me.bergen.edu,ENG/
+,,"2025-05-01, 2:05pm",0.38,389374,mrivera16@me.bergen.edu,ENG/
+,,"2025-05-01, 2:43pm",1.13,389374,mrivera16@me.bergen.edu,ENG/
+,,"2025-05-06, 1:35pm",1.15,389374,mrivera16@me.bergen.edu,ENG/
+,"Rivera, Milton visits: 6",Visits: 6,Hours: 5.24,,,
+,"Rodriguez, Allanis","2025-05-06, 1:34pm",1.15,899547,arodriguez150331@me.bergen.edu,BIO/
+,"Rodriguez, Allanis visits: 1",Visits: 1,Hours: 1.15,,,
+,"Salazar, Anahi","2025-05-06, 1:36pm",1.15,922250,asalazar158272@me.bergen.edu,BIO/
+,"Salazar, Anahi visits: 1",Visits: 1,Hours: 1.15,,,
+,"Salem, Hashem","2025-02-11, 4:43pm",0.9,919657,hsalem157456@me.bergen.edu,GENPS/
+,,"2025-02-13, 4:50pm",0.53,919657,hsalem157456@me.bergen.edu,GENPS/
+,,"2025-04-08, 1:31pm",0.87,919657,hsalem157456@me.bergen.edu,GENPS/
+,,"2025-04-29, 1:29pm",0.82,919657,hsalem157456@me.bergen.edu,GENPS/
+,"Salem, Hashem visits: 4",Visits: 4,Hours: 3.12,,,
+,"Salto, Jeremy","2025-04-22, 1:35pm",0.78,922060,jrisk2005@outlook.com,CCSC/
+,,"2025-04-24, 1:33pm",0.78,922060,jrisk2005@outlook.com,CCSC/
+,"Salto, Jeremy visits: 2",Visits: 2,Hours: 1.56,,,
+,"Schluger, Harrison","2025-02-27, 4:40pm",0.62,675448,hschluger@me.bergen.edu,BIO/
+,,"2025-04-03, 1:37pm",0.97,675448,hschluger@me.bergen.edu,BIO/
+,"Schluger, Harrison visits: 2",Visits: 2,Hours: 1.59,,,
+,"Tos, Meryem","2025-01-21, 4:59pm",1.07,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-01-23, 4:57pm",0.28,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-01-28, 5:00pm",0.83,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-02-04, 5:59pm",0,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-02-11, 4:43pm",0.9,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-02-13, 4:49pm",0.82,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-03-20, 5:09pm",0.58,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-04-03, 5:00pm",0.6,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-04-15, 1:30pm",0.83,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-04-17, 1:30pm",0.83,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-04-22, 1:35pm",0.75,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-04-24, 1:36pm",0.75,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-05-01, 1:31pm",0.93,914106,mtos@me.bergen.edu,GENPS/
+,,"2025-05-01, 2:45pm",0.7,914106,mtos@me.bergen.edu,GENPS/
+,"Tos, Meryem visits: 14",Visits: 14,Hours: 9.87,,,
+MAT180 050 20252 visits: 79,,Visits: 79,Hours: 67.60,,,
+MAT180 E080 20252,"Ali, Ali","2025-02-13, 5:12pm",0.55,855155,aali140691@me.bergen.edu,CCSC/
+,"Ali, Ali visits: 1",Visits: 1,Hours: 0.55,,,
+MAT180 E080 20252 visits: 1,,Visits: 1,Hours: 0.55,,,
+MAT180 E181 20252,"Abuosbah, Bayan","2025-04-29, 4:00pm",1,918618,babuosbah@me.bergen.edu,BIO/
+,,"2025-04-29, 5:00pm",1,918618,babuosbah@me.bergen.edu,BIO/
+,"Abuosbah, Bayan visits: 2",Visits: 2,Hours: 2.00,,,
+,"Aburoumi, Manar","2025-04-08, 4:00pm",0.83,900234,maburoumi150627@me.bergen.edu,AIRC/
+,,"2025-04-08, 5:00pm",0.83,900234,maburoumi150627@me.bergen.edu,AIRC/
+,"Aburoumi, Manar visits: 2",Visits: 2,Hours: 1.66,,,
+,"Alava, Andrew","2025-02-11, 5:24pm",0.5,910835,aalava154342@me.bergen.edu,CCSC/
+,,"2025-02-18, 5:22pm",0.67,910835,aalava154342@me.bergen.edu,CCSC/
+,,"2025-02-20, 5:01pm",0.92,910835,aalava154342@me.bergen.edu,CCSC/
+,,"2025-02-25, 5:07pm",0.77,910835,aalava154342@me.bergen.edu,CCSC/
+,,"2025-02-27, 5:08pm",0.75,910835,aalava154342@me.bergen.edu,CCSC/
+,,"2025-03-04, 5:15pm",0.72,910835,aalava154342@me.bergen.edu,CCSC/
+,,"2025-03-20, 5:05pm",0.82,910835,aalava154342@me.bergen.edu,CCSC/
+,,"2025-03-27, 5:16pm",0.75,910835,aalava154342@me.bergen.edu,CCSC/
+,,"2025-04-22, 5:06pm",0.83,910835,aalava154342@me.bergen.edu,CCSC/
+,,"2025-04-24, 5:05pm",0.92,910835,aalava154342@me.bergen.edu,CCSC/
+,"Alava, Andrew visits: 10",Visits: 10,Hours: 7.65,,,
+,"Almonte, Juana","2025-02-11, 5:06pm",0.8,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-02-13, 5:04pm",0.72,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-02-18, 5:04pm",0.97,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-02-20, 5:05pm",0.83,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-02-25, 5:05pm",0.82,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-03-04, 5:02pm",0.95,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-03-06, 4:01pm",0.83,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-03-06, 5:02pm",0.92,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-03-06, 5:12pm",0.7,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-03-20, 5:00pm",0.93,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-04-03, 5:02pm",0.83,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-04-08, 4:00pm",0.83,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-04-08, 5:00pm",0.83,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-04-15, 4:59pm",0.82,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-04-24, 5:01pm",0.98,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-05-06, 4:06pm",0.77,938611,jalmonte165773@me.bergen.edu,CCSC/
+,,"2025-05-06, 5:02pm",0.9,938611,jalmonte165773@me.bergen.edu,CCSC/
+,"Almonte, Juana visits: 17",Visits: 17,Hours: 14.43,,,
+,"Araya, Emiliano","2025-02-11, 5:04pm",0.65,864029,earaya137983@me.bergen.edu,CCSC/
+,,"2025-02-11, 5:53pm",0,864029,earaya137983@me.bergen.edu,CCSC/
+,,"2025-02-13, 5:03pm",0.73,864029,earaya137983@me.bergen.edu,CCSC/
+,,"2025-02-20, 5:10pm",0.73,864029,earaya137983@me.bergen.edu,CCSC/
+,,"2025-03-04, 5:00pm",0.95,864029,earaya137983@me.bergen.edu,CCSC/
+,,"2025-03-06, 4:15pm",0.75,864029,earaya137983@me.bergen.edu,CCSC/
+,,"2025-03-06, 5:10pm",0.73,864029,earaya137983@me.bergen.edu,CCSC/
+,,"2025-04-29, 4:00pm",1,864029,earaya137983@me.bergen.edu,CCSC/
+,,"2025-04-29, 5:00pm",1,864029,earaya137983@me.bergen.edu,CCSC/
+,"Araya, Emiliano visits: 9",Visits: 9,Hours: 6.54,,,
+,"Cabrera, Christian","2025-02-11, 5:05pm",0.82,823704,ccabrera124306@me.bergen.edu,ENG/
+,,"2025-02-13, 5:24pm",0.4,823704,ccabrera124306@me.bergen.edu,ENG/
+,,"2025-02-18, 5:02pm",1,823704,ccabrera124306@me.bergen.edu,ENG/
+,,"2025-02-20, 5:10pm",0.77,823704,ccabrera124306@me.bergen.edu,ENG/
+,,"2025-02-25, 5:02pm",0.85,823704,ccabrera124306@me.bergen.edu,ENG/
+,,"2025-03-20, 5:00pm",0.88,823704,ccabrera124306@me.bergen.edu,ENG/
+,"Cabrera, Christian visits: 6",Visits: 6,Hours: 4.72,,,
+,"Cengu, Ariona","2025-03-06, 4:22pm",0.55,935631,acengu@me.bergen.edu,ENG/
+,,"2025-05-06, 4:15pm",0.83,935631,acengu@me.bergen.edu,ENG/
+,,"2025-05-06, 5:29pm",0.4,935631,acengu@me.bergen.edu,ENG/
+,"Cengu, Ariona visits: 3",Visits: 3,Hours: 1.78,,,
+,"Choi, Terry","2025-02-25, 5:37pm",0.28,775895,tchoi10@me.bergen.edu,CCSC/
+,"Choi, Terry visits: 1",Visits: 1,Hours: 0.28,,,
+,"Duffus, Altinea","2025-02-11, 5:26pm",0.43,776106,aduffus@me.bergen.edu,RAD/
+,,"2025-02-13, 5:02pm",0.73,776106,aduffus@me.bergen.edu,RAD/
+,,"2025-02-18, 5:03pm",0.95,776106,aduffus@me.bergen.edu,RAD/
+,,"2025-02-20, 5:01pm",0.88,776106,aduffus@me.bergen.edu,RAD/
+,,"2025-02-25, 5:04pm",0.8,776106,aduffus@me.bergen.edu,RAD/
+,,"2025-02-27, 5:01pm",0.87,776106,aduffus@me.bergen.edu,RAD/
+,,"2025-03-04, 5:00pm",0.95,776106,aduffus@me.bergen.edu,RAD/
+,,"2025-04-15, 5:00pm",0.8,776106,aduffus@me.bergen.edu,RAD/
+,,"2025-04-29, 4:00pm",1,776106,aduffus@me.bergen.edu,RAD/
+,,"2025-04-29, 5:00pm",1,776106,aduffus@me.bergen.edu,RAD/
+,,"2025-05-06, 4:13pm",0.63,776106,aduffus@me.bergen.edu,RAD/
+,,"2025-05-06, 5:05pm",0.8,776106,aduffus@me.bergen.edu,RAD/
+,"Duffus, Altinea visits: 12",Visits: 12,Hours: 9.84,,,
+,"Erdogar, Taha","2025-02-13, 5:12pm",0.58,912691,terdogar@me.bergen.edu,CCSC/
+,,"2025-04-08, 4:00pm",0.83,912691,terdogar@me.bergen.edu,CCSC/
+,,"2025-04-08, 5:00pm",0.83,912691,terdogar@me.bergen.edu,CCSC/
+,"Erdogar, Taha visits: 3",Visits: 3,Hours: 2.24,,,
+,"Espinal, Delvin","2025-02-18, 5:13pm",0.82,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-02-25, 5:22pm",0.53,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-02-27, 5:03pm",0.85,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-03-04, 5:10pm",0.8,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-03-20, 5:13pm",0.7,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-03-25, 5:05pm",0.83,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-03-27, 5:01pm",0.98,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-04-03, 5:01pm",0.83,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-04-08, 4:00pm",0.83,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-04-08, 5:00pm",0.83,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-04-15, 5:01pm",0.78,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-04-22, 5:02pm",0.88,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-04-29, 4:00pm",1,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-04-29, 5:00pm",1,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-05-01, 5:28pm",0.4,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-05-06, 4:07pm",0.75,903075,despinal151628@me.bergen.edu,ENG/
+,,"2025-05-06, 5:03pm",0.87,903075,despinal151628@me.bergen.edu,ENG/
+,"Espinal, Delvin visits: 17",Visits: 17,Hours: 13.68,,,
+,"Estrada, Sarah","2025-05-06, 4:04pm",0.78,878249,sestrada143095@me.bergen.edu,GENAS/
+,,"2025-05-06, 5:00pm",0.88,878249,sestrada143095@me.bergen.edu,GENAS/
+,"Estrada, Sarah visits: 2",Visits: 2,Hours: 1.66,,,
+,"Garcia, Savannah","2025-05-06, 4:05pm",0.78,916009,sgarcia156098@me.bergen.edu,EXPLR/
+,,"2025-05-06, 5:05pm",0.83,916009,sgarcia156098@me.bergen.edu,EXPLR/
+,"Garcia, Savannah visits: 2",Visits: 2,Hours: 1.61,,,
+,"Gavilanes, Camila","2025-02-13, 5:12pm",0.58,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-02-18, 5:03pm",0.93,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-02-20, 5:02pm",0.87,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-02-25, 5:03pm",0.82,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-02-27, 5:01pm",0.87,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-03-04, 5:00pm",0.95,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-03-06, 4:00pm",0.95,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-03-06, 5:09pm",0.73,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-04-08, 4:00pm",0.83,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-04-08, 5:00pm",0.83,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-04-22, 5:02pm",0.88,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-04-24, 5:01pm",0.97,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-04-29, 4:00pm",1,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-04-29, 5:00pm",1,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-05-06, 4:04pm",0.78,901184,cgavilanes@me.bergen.edu,GENPS/
+,,"2025-05-06, 5:00pm",0.88,901184,cgavilanes@me.bergen.edu,GENPS/
+,"Gavilanes, Camila visits: 16",Visits: 16,Hours: 13.87,,,
+,"Karademir, Omer Berke","2025-02-20, 5:12pm",0.72,939933,okarademir@me.bergen.edu,CCSC/
+,,"2025-04-08, 4:00pm",0.83,939933,okarademir@me.bergen.edu,CCSC/
+,,"2025-04-08, 5:00pm",0.83,939933,okarademir@me.bergen.edu,CCSC/
+,"Karademir, Omer Berke visits: 3",Visits: 3,Hours: 2.38,,,
+,"Lapitan, Leandra","2025-02-13, 5:04pm",0.72,923746,llapitan158805@me.bergen.edu,ENG/
+,,"2025-03-04, 5:14pm",0.73,923746,llapitan158805@me.bergen.edu,ENG/
+,,"2025-03-06, 4:09pm",0.87,923746,llapitan158805@me.bergen.edu,ENG/
+,,"2025-03-06, 5:10pm",0.75,923746,llapitan158805@me.bergen.edu,ENG/
+,,"2025-04-03, 5:13pm",0.67,923746,llapitan158805@me.bergen.edu,ENG/
+,"Lapitan, Leandra visits: 5",Visits: 5,Hours: 3.74,,,
+,"Lembo, Dominick","2025-02-13, 5:03pm",0.72,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-02-18, 5:02pm",0.98,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-02-20, 5:07pm",0.78,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-02-25, 5:03pm",0.83,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-02-27, 5:02pm",0.85,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-03-04, 5:00pm",0.95,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-03-18, 5:16pm",0.73,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-03-25, 5:15pm",0.67,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-03-27, 5:00pm",1,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-04-01, 5:01pm",1.02,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-04-08, 4:00pm",0.83,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-04-08, 5:00pm",0.83,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-04-15, 5:00pm",0.8,455558,dlembo@me.bergen.edu,PHYSC/
+,,"2025-04-24, 5:12pm",0.8,455558,dlembo@me.bergen.edu,PHYSC/
+,"Lembo, Dominick visits: 14",Visits: 14,Hours: 11.79,,,
+,"Ramos, Melanie","2025-04-08, 4:00pm",0.83,899359,mramos150263@me.bergen.edu,DRAFT/
+,,"2025-04-08, 5:00pm",0.83,899359,mramos150263@me.bergen.edu,DRAFT/
+,"Ramos, Melanie visits: 2",Visits: 2,Hours: 1.66,,,
+,"Rodriguez, Freddy","2025-02-25, 5:13pm",0.65,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-02-27, 5:02pm",0.88,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-03-04, 5:04pm",0.87,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-03-06, 4:44pm",0.27,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-03-06, 5:09pm",0.75,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-03-18, 5:02pm",0.93,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-03-20, 5:00pm",0.9,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-03-25, 5:01pm",0.88,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-03-27, 5:00pm",1,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-04-01, 5:01pm",1.03,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-04-03, 5:01pm",0.87,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-04-08, 4:00pm",0.83,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-04-08, 5:00pm",0.83,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-04-22, 5:03pm",0.88,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-04-24, 5:00pm",0.98,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-04-29, 4:00pm",1,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-04-29, 5:00pm",1,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-05-01, 5:06pm",0.78,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-05-06, 4:07pm",0.77,889415,frodriguez147050@me.bergen.edu,ENG/
+,,"2025-05-06, 5:02pm",0.87,889415,frodriguez147050@me.bergen.edu,ENG/
+,"Rodriguez, Freddy visits: 20",Visits: 20,Hours: 16.97,,,
+,"Sherifi, Samir","2025-03-06, 4:01pm",1,911652,ssherifi@me.bergen.edu,CCSC/
+,,"2025-04-15, 5:40pm",0.17,911652,ssherifi@me.bergen.edu,CCSC/
+,"Sherifi, Samir visits: 2",Visits: 2,Hours: 1.17,,,
+,"Smirnov, Feliks","2025-04-29, 4:00pm",1,927156,fsmirnov@me.bergen.edu,BUAD/
+,,"2025-04-29, 5:00pm",1,927156,fsmirnov@me.bergen.edu,BUAD/
+,,"2025-05-06, 4:26pm",0.42,927156,fsmirnov@me.bergen.edu,BUAD/
+,,"2025-05-06, 5:08pm",0.77,927156,fsmirnov@me.bergen.edu,BUAD/
+,"Smirnov, Feliks visits: 4",Visits: 4,Hours: 3.19,,,
+,"Staszalek, Kacper","2025-04-22, 5:03pm",0.9,837475,kstaszalek@me.bergen.edu,ENG/
+,,"2025-04-24, 5:08pm",0.87,837475,kstaszalek@me.bergen.edu,ENG/
+,"Staszalek, Kacper visits: 2",Visits: 2,Hours: 1.77,,,
+,"Tiburcio, Daniela","2025-02-11, 5:05pm",0.78,884823,dtiburcio@me.bergen.edu,AIRC/
+,"Tiburcio, Daniela visits: 1",Visits: 1,Hours: 0.78,,,
+,"Tuzer, Elif","2025-04-29, 4:00pm",1,923184,etuzer@me.bergen.edu,GENAS/
+,,"2025-04-29, 5:00pm",1,923184,etuzer@me.bergen.edu,GENAS/
+,,"2025-05-06, 4:06pm",0.77,923184,etuzer@me.bergen.edu,GENAS/
+,,"2025-05-06, 5:10pm",0.7,923184,etuzer@me.bergen.edu,GENAS/
+,"Tuzer, Elif visits: 4",Visits: 4,Hours: 3.47,,,
+,"Vanga-Soto, Jorvani","2025-02-11, 5:04pm",0.58,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-02-11, 5:52pm",0.03,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-02-13, 5:04pm",0.72,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-02-18, 5:03pm",0.97,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-02-20, 5:01pm",0.9,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-02-25, 5:04pm",0.82,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-02-27, 5:02pm",0.85,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-03-04, 5:01pm",0.93,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-03-06, 4:00pm",1,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-03-06, 5:09pm",0.73,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-03-18, 5:03pm",0.95,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-03-20, 5:01pm",0.9,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-03-25, 5:01pm",0.88,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-03-27, 5:01pm",1,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-04-01, 5:01pm",1.03,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-04-03, 5:01pm",0.85,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-04-08, 4:00pm",0.83,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-04-08, 5:00pm",0.83,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-04-15, 5:00pm",0.82,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-04-22, 5:02pm",0.92,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-04-24, 5:01pm",1,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-04-29, 4:00pm",1,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-04-29, 5:00pm",1,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-05-01, 5:05pm",0.78,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-05-06, 4:04pm",0.8,924379,jvanga-soto@me.bergen.edu,GENPS/
+,,"2025-05-06, 5:00pm",0.9,924379,jvanga-soto@me.bergen.edu,GENPS/
+,"Vanga-Soto, Jorvani visits: 26",Visits: 26,Hours: 22.02,,,
+MAT180 E181 20252 visits: 185,,Visits: 185,Hours: 150.90,,,
+MAT280 603 20252,"Obidat, Mahmood","2025-01-22, 4:02pm",0.88,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-01-29, 4:07pm",0.72,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-02-03, 4:01pm",0.93,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-02-10, 4:01pm",0.9,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-02-10, 4:56pm",0.48,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-02-19, 4:04pm",0.82,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-02-24, 4:00pm",0.9,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-02-26, 4:13pm",0.72,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-03-03, 4:02pm",0.82,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-03-03, 5:00pm",0.92,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-03-17, 4:01pm",0.86,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-03-19, 4:00pm",0.83,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-04-07, 4:00pm",0.03,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-04-14, 4:00pm",0.83,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-04-16, 4:00pm",0.83,913608,mobidat155297@me.bergen.edu,CCSC/
+,,"2025-04-23, 4:00pm",1,913608,mobidat155297@me.bergen.edu,CCSC/
+,"Obidat, Mahmood visits: 16",Visits: 16,Hours: 12.47,,,
+MAT280 603 20252 visits: 16,,Visits: 16,Hours: 12.47,,,
+MAT280 B001 20252,"Aydiner, Dilara","2025-04-06, 11:00am",0.83,910224,daydiner@me.bergen.edu,BIO/
+,,"2025-04-06, 12:00pm",0.83,910224,daydiner@me.bergen.edu,BIO/
+,"Aydiner, Dilara visits: 2",Visits: 2,Hours: 1.66,,,
+,"Ben Dov, Daniel","2025-02-06, 10:00am",0.83,901642,dbendov@me.bergen.edu,BUAD/
+,,"2025-02-23, 11:00am",1,901642,dbendov@me.bergen.edu,BUAD/
+,,"2025-02-23, 12:00pm",1,901642,dbendov@me.bergen.edu,BUAD/
+,"Ben Dov, Daniel visits: 3",Visits: 3,Hours: 2.83,,,
+,"Bernardino, Billy","2025-02-23, 11:00am",1,874364,bbernardino@me.bergen.edu,GENPS/
+,,"2025-02-23, 12:00pm",1,874364,bbernardino@me.bergen.edu,GENPS/
+,,"2025-04-06, 11:00am",0.83,874364,bbernardino@me.bergen.edu,GENPS/
+,,"2025-04-06, 12:00pm",0.83,874364,bbernardino@me.bergen.edu,GENPS/
+,,"2025-05-04, 3:00pm",1,874364,bbernardino@me.bergen.edu,GENPS/
+,,"2025-05-04, 4:00pm",1,874364,bbernardino@me.bergen.edu,GENPS/
+,"Bernardino, Billy visits: 6",Visits: 6,Hours: 5.66,,,
+,"Brody, Mark","2025-01-24, 12:00pm",1,928368,mbrody160881@me.bergen.edu,ENG/
+,,"2025-02-20, 10:00am",1,928368,mbrody160881@me.bergen.edu,ENG/
+,,"2025-02-23, 11:00am",1,928368,mbrody160881@me.bergen.edu,ENG/
+,,"2025-02-23, 12:00pm",1,928368,mbrody160881@me.bergen.edu,ENG/
+,,"2025-03-03, 4:00pm",0.83,928368,mbrody160881@me.bergen.edu,ENG/
+,,"2025-04-06, 11:00am",0.83,928368,mbrody160881@me.bergen.edu,ENG/
+,,"2025-04-06, 12:00pm",0.83,928368,mbrody160881@me.bergen.edu,ENG/
+,,"2025-05-04, 3:00pm",1,928368,mbrody160881@me.bergen.edu,ENG/
+,,"2025-05-04, 4:00pm",1,928368,mbrody160881@me.bergen.edu,ENG/
+,"Brody, Mark visits: 9",Visits: 9,Hours: 8.49,,,
+,"Caramagna, Lily","2025-02-23, 11:00am",1,756385,lcaramagna141850@me.bergen.edu,GENPS/
+,,"2025-02-23, 12:00pm",1,756385,lcaramagna141850@me.bergen.edu,GENPS/
+,"Caramagna, Lily visits: 2",Visits: 2,Hours: 2.00,,,
+,"Cevallos, Gillyan","2025-02-20, 10:00am",1,869806,gcevallos140271@me.bergen.edu,GENAS/
+,,"2025-02-23, 11:00am",1,869806,gcevallos140271@me.bergen.edu,GENAS/
+,,"2025-02-23, 12:00pm",1,869806,gcevallos140271@me.bergen.edu,GENAS/
+,"Cevallos, Gillyan visits: 3",Visits: 3,Hours: 3.00,,,
+,"Chiniaev, Denis","2025-02-01, 10:00am",1,941593,dchiniaev@me.bergen.edu,BIO/
+,,"2025-02-23, 11:00am",1,941593,dchiniaev@me.bergen.edu,BIO/
+,,"2025-02-23, 12:00pm",1,941593,dchiniaev@me.bergen.edu,BIO/
+,,"2025-04-06, 11:00am",0.83,941593,dchiniaev@me.bergen.edu,BIO/
+,,"2025-04-06, 12:00pm",0.83,941593,dchiniaev@me.bergen.edu,BIO/
+,,"2025-04-21, 5:00pm",1,941593,dchiniaev@me.bergen.edu,BIO/
+,,"2025-04-24, 10:00am",1,941593,dchiniaev@me.bergen.edu,BIO/
+,,"2025-05-05, 11:05am",0.93,941593,dchiniaev@me.bergen.edu,BIO/
+,,"2025-05-05, 1:02pm",1.08,941593,dchiniaev@me.bergen.edu,BIO/
+,"Chiniaev, Denis visits: 9",Visits: 9,Hours: 8.67,,,
+,"Correa, Maria","2025-02-06, 10:00am",0.83,898768,mcorrea150053@me.bergen.edu,GENAS/
+,,"2025-02-20, 10:00am",1,898768,mcorrea150053@me.bergen.edu,GENAS/
+,,"2025-02-23, 11:00am",1,898768,mcorrea150053@me.bergen.edu,GENAS/
+,,"2025-02-23, 12:00pm",1,898768,mcorrea150053@me.bergen.edu,GENAS/
+,,"2025-04-06, 11:00am",0.83,898768,mcorrea150053@me.bergen.edu,GENAS/
+,,"2025-04-06, 12:00pm",0.83,898768,mcorrea150053@me.bergen.edu,GENAS/
+,,"2025-05-04, 3:00pm",1,898768,mcorrea150053@me.bergen.edu,GENAS/
+,,"2025-05-04, 4:00pm",1,898768,mcorrea150053@me.bergen.edu,GENAS/
+,"Correa, Maria visits: 8",Visits: 8,Hours: 7.49,,,
+,"Ettehadieh, Oliya","2025-02-23, 11:00am",1,925349,oettehadieh@me.bergen.edu,ENG/
+,,"2025-02-23, 12:00pm",1,925349,oettehadieh@me.bergen.edu,ENG/
+,,"2025-05-05, 11:04am",0.94,925349,oettehadieh@me.bergen.edu,ENG/
+,,"2025-05-05, 1:02pm",1.08,925349,oettehadieh@me.bergen.edu,ENG/
+,"Ettehadieh, Oliya visits: 4",Visits: 4,Hours: 4.02,,,
+,"Guntupalli, Samanyu","2025-05-04, 3:00pm",1,874481,sguntupalli@me.bergen.edu,GENPS/
+,,"2025-05-04, 4:00pm",1,874481,sguntupalli@me.bergen.edu,GENPS/
+,"Guntupalli, Samanyu visits: 2",Visits: 2,Hours: 2.00,,,
+,"Ivron, Yonatan","2025-03-31, 5:00pm",0.83,888597,yivron@me.bergen.edu,ECON/
+,,"2025-05-04, 3:00pm",1,888597,yivron@me.bergen.edu,ECON/
+,,"2025-05-04, 4:00pm",1,888597,yivron@me.bergen.edu,ECON/
+,"Ivron, Yonatan visits: 3",Visits: 3,Hours: 2.83,,,
+,"Mehta, Harsh","2025-02-08, 10:00am",1,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-02-23, 11:00am",1,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-02-23, 12:00pm",1,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-03-27, 10:00am",0.83,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-04-06, 11:00am",0.83,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-04-06, 12:00pm",0.83,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-04-10, 10:00am",1,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-04-14, 5:00pm",1,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-04-17, 10:00am",0.83,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-04-21, 5:00pm",1,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-04-24, 10:00am",1,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-05-01, 10:00am",1,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-05-04, 3:00pm",1,938309,hmehta165636@me.bergen.edu,CCSC/
+,,"2025-05-04, 4:00pm",1,938309,hmehta165636@me.bergen.edu,CCSC/
+,"Mehta, Harsh visits: 14",Visits: 14,Hours: 13.32,,,
+,"Omran, Mohab","2025-02-08, 10:00am",1,872727,momran141269@me.bergen.edu,ENG/
+,,"2025-02-23, 11:00am",1,872727,momran141269@me.bergen.edu,ENG/
+,,"2025-02-23, 12:00pm",1,872727,momran141269@me.bergen.edu,ENG/
+,"Omran, Mohab visits: 3",Visits: 3,Hours: 3.00,,,
+,"Patel, Shrey","2025-05-04, 3:00pm",1,874360,spatel141807@me.bergen.edu,GENPS/
+,,"2025-05-04, 4:00pm",1,874360,spatel141807@me.bergen.edu,GENPS/
+,"Patel, Shrey visits: 2",Visits: 2,Hours: 2.00,,,
+,"Ribaudo, Joey","2025-01-24, 12:00pm",1,936133,jribaudo164592@me.bergen.edu,CCSC/
+,"Ribaudo, Joey visits: 1",Visits: 1,Hours: 1.00,,,
+,"Szymski, Gabrielle","2025-05-04, 3:00pm",1,906806,gszymski@me.bergen.edu,ENG/
+,,"2025-05-04, 4:00pm",1,906806,gszymski@me.bergen.edu,ENG/
+,"Szymski, Gabrielle visits: 2",Visits: 2,Hours: 2.00,,,
+,"Turner, Ben","2025-02-23, 11:00am",1,851569,bturner10@me.bergen.edu,ENG/
+,,"2025-02-23, 12:00pm",1,851569,bturner10@me.bergen.edu,ENG/
+,,"2025-03-31, 5:00pm",0.83,851569,bturner10@me.bergen.edu,ENG/
+,,"2025-05-04, 3:00pm",1,851569,bturner10@me.bergen.edu,ENG/
+,,"2025-05-04, 4:00pm",1,851569,bturner10@me.bergen.edu,ENG/
+,,"2025-05-05, 11:03am",0.96,851569,bturner10@me.bergen.edu,ENG/
+,"Turner, Ben visits: 6",Visits: 6,Hours: 5.79,,,
+MAT280 B001 20252 visits: 79,,Visits: 79,Hours: 75.76,,,
+MAT280 B010 20252,"Abuali, Ahmad","2025-01-22, 4:31pm",0.4,907224,aabuali153125@me.bergen.edu,GENPS/
+,,"2025-03-03, 4:28pm",0.38,907224,aabuali153125@me.bergen.edu,GENPS/
+,,"2025-04-14, 4:00pm",0.83,907224,aabuali153125@me.bergen.edu,GENPS/
+,,"2025-04-16, 4:00pm",0.83,907224,aabuali153125@me.bergen.edu,GENPS/
+,,"2025-04-23, 4:00pm",1,907224,aabuali153125@me.bergen.edu,GENPS/
+,"Abuali, Ahmad visits: 5",Visits: 5,Hours: 3.44,,,
+,"Ashfaq, Arham","2025-03-17, 5:00pm",1,864858,aashfaq158159@me.bergen.edu,CCSC/
+,,"2025-04-06, 11:00am",0.83,864858,aashfaq158159@me.bergen.edu,CCSC/
+,,"2025-04-06, 12:00pm",0.83,864858,aashfaq158159@me.bergen.edu,CCSC/
+,"Ashfaq, Arham visits: 3",Visits: 3,Hours: 2.66,,,
+,"Cajas, Natalie","2025-03-17, 5:00pm",1,908374,ncajas@me.bergen.edu,CHEM/
+,"Cajas, Natalie visits: 1",Visits: 1,Hours: 1.00,,,
+,"Feza, Aida","2025-01-24, 12:00pm",1,863198,afeza@me.bergen.edu,GENAS/
+,,"2025-01-30, 10:00am",1,863198,afeza@me.bergen.edu,GENAS/
+,,"2025-03-17, 5:00pm",1,863198,afeza@me.bergen.edu,GENAS/
+,"Feza, Aida visits: 3",Visits: 3,Hours: 3.00,,,
+,"Guntupalli, Samanyu","2025-02-23, 11:00am",1,874481,sguntupalli@me.bergen.edu,GENPS/
+,,"2025-02-23, 12:00pm",1,874481,sguntupalli@me.bergen.edu,GENPS/
+,,"2025-04-06, 11:00am",0.83,874481,sguntupalli@me.bergen.edu,GENPS/
+,,"2025-04-06, 12:00pm",0.83,874481,sguntupalli@me.bergen.edu,GENPS/
+,"Guntupalli, Samanyu visits: 4",Visits: 4,Hours: 3.66,,,
+,"Hatton, Caleb","2025-02-23, 11:00am",1,874490,chatton@me.bergen.edu,GENPS/
+,,"2025-02-23, 12:00pm",1,874490,chatton@me.bergen.edu,GENPS/
+,"Hatton, Caleb visits: 2",Visits: 2,Hours: 2.00,,,
+,"Ivron, Yonatan","2025-01-24, 12:00pm",1,888597,yivron@me.bergen.edu,ECON/
+,,"2025-01-30, 10:00am",1,888597,yivron@me.bergen.edu,ECON/
+,,"2025-02-06, 10:00am",0.83,888597,yivron@me.bergen.edu,ECON/
+,,"2025-02-23, 11:00am",1,888597,yivron@me.bergen.edu,ECON/
+,,"2025-02-23, 12:00pm",1,888597,yivron@me.bergen.edu,ECON/
+,,"2025-03-17, 5:00pm",1,888597,yivron@me.bergen.edu,ECON/
+,,"2025-03-24, 5:00pm",0.83,888597,yivron@me.bergen.edu,ECON/
+,,"2025-03-27, 10:00am",0.83,888597,yivron@me.bergen.edu,ECON/
+,,"2025-04-06, 11:00am",0.83,888597,yivron@me.bergen.edu,ECON/
+,,"2025-04-06, 12:00pm",0.83,888597,yivron@me.bergen.edu,ECON/
+,,"2025-04-14, 5:00pm",1,888597,yivron@me.bergen.edu,ECON/
+,,"2025-04-17, 10:00am",0.83,888597,yivron@me.bergen.edu,ECON/
+,,"2025-04-21, 5:00pm",1,888597,yivron@me.bergen.edu,ECON/
+,,"2025-04-24, 10:00am",1,888597,yivron@me.bergen.edu,ECON/
+,,"2025-05-01, 10:00am",1,888597,yivron@me.bergen.edu,ECON/
+,,"2025-05-05, 1:02pm",1.1,888597,yivron@me.bergen.edu,ECON/
+,"Ivron, Yonatan visits: 16",Visits: 16,Hours: 15.08,,,
+,"Jarilla, Janelle-Anne","2025-03-17, 5:00pm",1,838095,jjarilla@me.bergen.edu,CCSC/
+,"Jarilla, Janelle-Anne visits: 1",Visits: 1,Hours: 1.00,,,
+,"Kim, Nadia","2025-02-06, 10:00am",0.83,892554,nkim10@me.bergen.edu,ENG/
+,,"2025-02-23, 11:00am",1,892554,nkim10@me.bergen.edu,ENG/
+,,"2025-02-23, 12:00pm",1,892554,nkim10@me.bergen.edu,ENG/
+,"Kim, Nadia visits: 3",Visits: 3,Hours: 2.83,,,
+,"Lopez, Christopher","2025-02-06, 10:00am",0.83,934205,clopez163718@me.bergen.edu,ENG/
+,"Lopez, Christopher visits: 1",Visits: 1,Hours: 0.83,,,
+,"Menguverdi, Zeynep","2025-01-30, 10:00am",1,938893,zmenguverdi@me.bergen.edu,CCSC/
+,,"2025-04-06, 11:00am",0.83,938893,zmenguverdi@me.bergen.edu,CCSC/
+,,"2025-04-06, 12:00pm",0.83,938893,zmenguverdi@me.bergen.edu,CCSC/
+,"Menguverdi, Zeynep visits: 3",Visits: 3,Hours: 2.66,,,
+,"Nunez, Luccia","2025-01-24, 12:00pm",1,877205,lnunez142640@me.bergen.edu,GENAS/
+,,"2025-02-01, 10:00am",1,877205,lnunez142640@me.bergen.edu,GENAS/
+,,"2025-02-23, 11:00am",1,877205,lnunez142640@me.bergen.edu,GENAS/
+,,"2025-02-23, 12:00pm",1,877205,lnunez142640@me.bergen.edu,GENAS/
+,"Nunez, Luccia visits: 4",Visits: 4,Hours: 4.00,,,
+,"Patel, Shrey","2025-02-23, 11:00am",1,874360,spatel141807@me.bergen.edu,GENPS/
+,,"2025-02-23, 12:00pm",1,874360,spatel141807@me.bergen.edu,GENPS/
+,,"2025-04-06, 11:00am",0.83,874360,spatel141807@me.bergen.edu,GENPS/
+,,"2025-04-06, 12:00pm",0.83,874360,spatel141807@me.bergen.edu,GENPS/
+,"Patel, Shrey visits: 4",Visits: 4,Hours: 3.66,,,
+,"Szymski, Gabrielle","2025-02-23, 11:00am",1,906806,gszymski@me.bergen.edu,ENG/
+,,"2025-02-23, 12:00pm",1,906806,gszymski@me.bergen.edu,ENG/
+,,"2025-04-06, 11:00am",0.83,906806,gszymski@me.bergen.edu,ENG/
+,,"2025-04-06, 12:00pm",0.83,906806,gszymski@me.bergen.edu,ENG/
+,,"2025-04-14, 5:00pm",1,906806,gszymski@me.bergen.edu,ENG/
+,,"2025-04-21, 5:00pm",1,906806,gszymski@me.bergen.edu,ENG/
+,,"2025-04-24, 10:00am",1,906806,gszymski@me.bergen.edu,ENG/
+,"Szymski, Gabrielle visits: 7",Visits: 7,Hours: 6.66,,,
+MAT280 B010 20252 visits: 57,,Visits: 57,Hours: 52.48,,,
+MAT280 P041 20252,"Bahr, Eric","2025-01-27, 4:00pm",0.85,624095,ebahr@me.bergen.edu,GENPS/
+,,"2025-02-10, 3:59pm",1.02,624095,ebahr@me.bergen.edu,GENPS/
+,,"2025-02-10, 5:01pm",0.95,624095,ebahr@me.bergen.edu,GENPS/
+,"Bahr, Eric visits: 3",Visits: 3,Hours: 2.82,,,
+,"Beato, Isael","2025-01-27, 4:01pm",0.93,769939,ibeato@me.bergen.edu,ENG/
+,,"2025-02-10, 4:00pm",0.98,769939,ibeato@me.bergen.edu,ENG/
+,,"2025-02-10, 4:59pm",1.05,769939,ibeato@me.bergen.edu,ENG/
+,,"2025-02-24, 4:03pm",0.85,769939,ibeato@me.bergen.edu,ENG/
+,"Beato, Isael visits: 4",Visits: 4,Hours: 3.81,,,
+,"Bilici, Halit","2025-02-10, 4:12pm",0.75,871525,hbilici@me.bergen.edu,CCSC/
+,,"2025-02-10, 5:02pm",1,871525,hbilici@me.bergen.edu,CCSC/
+,"Bilici, Halit visits: 2",Visits: 2,Hours: 1.75,,,
+,"Farah, Maya","2025-01-22, 4:03pm",0.87,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-01-27, 3:58pm",0.97,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-01-29, 4:03pm",0.77,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-02-03, 4:02pm",0.93,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-02-05, 3:59pm",0.97,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-02-10, 4:01pm",0.92,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-02-10, 4:56pm",1.07,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-02-17, 4:17pm",0.68,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-02-19, 4:04pm",0.8,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-02-24, 4:01pm",0.87,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-02-26, 3:58pm",0.95,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-03-03, 4:02pm",0.85,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-03-03, 5:00pm",0.91,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-03-17, 4:01pm",0.87,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-03-19, 4:03pm",0.85,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-04-14, 4:00pm",0.83,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-04-16, 4:00pm",0.83,915760,mfarah@me.bergen.edu,GENAS/
+,,"2025-04-23, 4:00pm",1,915760,mfarah@me.bergen.edu,GENAS/
+,"Farah, Maya visits: 18",Visits: 18,Hours: 15.94,,,
+,"Garcia, Andre","2025-03-03, 5:02pm",0.64,906414,agarcia152861@me.bergen.edu,ENG/
+,,"2025-04-07, 4:08pm",0.8,906414,agarcia152861@me.bergen.edu,ENG/
+,,"2025-05-05, 12:35pm",0.85,906414,agarcia152861@me.bergen.edu,ENG/
+,"Garcia, Andre visits: 3",Visits: 3,Hours: 2.29,,,
+,"Kaso, Alvi","2025-03-03, 4:03pm",0.82,883621,akaso145051@me.bergen.edu,ENG/
+,,"2025-03-03, 5:02pm",0.61,883621,akaso145051@me.bergen.edu,ENG/
+,,"2025-04-14, 4:00pm",0.83,883621,akaso145051@me.bergen.edu,ENG/
+,,"2025-04-16, 4:00pm",0.83,883621,akaso145051@me.bergen.edu,ENG/
+,,"2025-04-23, 4:00pm",1,883621,akaso145051@me.bergen.edu,ENG/
+,"Kaso, Alvi visits: 5",Visits: 5,Hours: 4.09,,,
+,"Lazcano, Maria","2025-02-24, 4:01pm",0.88,886601,mlazcano@me.bergen.edu,GENAS/
+,"Lazcano, Maria visits: 1",Visits: 1,Hours: 0.88,,,
+,"Martinez, Luisa","2025-02-24, 4:03pm",0.85,881307,lmartinez144129@me.bergen.edu,GENAS/
+,"Martinez, Luisa visits: 1",Visits: 1,Hours: 0.85,,,
+,"Miranda, Giovanni","2025-01-27, 4:00pm",0.95,909227,gmiranda153718@me.bergen.edu,CCSC/
+,,"2025-02-03, 4:01pm",0.97,909227,gmiranda153718@me.bergen.edu,CCSC/
+,,"2025-02-17, 4:02pm",0.93,909227,gmiranda153718@me.bergen.edu,CCSC/
+,,"2025-03-03, 4:03pm",0.8,909227,gmiranda153718@me.bergen.edu,CCSC/
+,,"2025-03-03, 5:01pm",0.57,909227,gmiranda153718@me.bergen.edu,CCSC/
+,"Miranda, Giovanni visits: 5",Visits: 5,Hours: 4.22,,,
+,"Rivero, Robert","2025-01-22, 4:03pm",0.87,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-01-27, 4:00pm",0.93,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-01-29, 4:03pm",0.78,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-02-03, 4:01pm",0.97,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-02-05, 3:59pm",0.97,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-02-10, 4:00pm",0.92,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-02-10, 5:01pm",1.03,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-02-17, 4:02pm",0.92,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-02-24, 4:00pm",0.88,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-02-26, 3:59pm",0.93,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-03-03, 4:02pm",0.83,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-03-03, 5:01pm",0.9,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-03-17, 4:00pm",0.88,899040,rrivero150141@me.bergen.edu,BUAD/
+,,"2025-03-19, 4:01pm",0.87,899040,rrivero150141@me.bergen.edu,BUAD/
+,"Rivero, Robert visits: 14",Visits: 14,Hours: 12.68,,,
+,"Ruiz Lince, Daniel","2025-01-27, 3:59pm",0.87,882318,druizlince@me.bergen.edu,GENPS/
+,,"2025-02-03, 4:00pm",0.73,882318,druizlince@me.bergen.edu,GENPS/
+,,"2025-02-05, 4:13pm",0.73,882318,druizlince@me.bergen.edu,GENPS/
+,,"2025-02-10, 4:12pm",1.03,882318,druizlince@me.bergen.edu,GENPS/
+,,"2025-02-17, 4:02pm",0.9,882318,druizlince@me.bergen.edu,GENPS/
+,,"2025-02-19, 4:02pm",0.63,882318,druizlince@me.bergen.edu,GENPS/
+,,"2025-02-24, 4:03pm",0.85,882318,druizlince@me.bergen.edu,GENPS/
+,"Ruiz Lince, Daniel visits: 7",Visits: 7,Hours: 5.74,,,
+,"Segura, Paul","2025-01-22, 4:15pm",0.67,869920,psegura@me.bergen.edu,GENAS/
+,,"2025-01-27, 4:01pm",0.83,869920,psegura@me.bergen.edu,GENAS/
+,,"2025-02-10, 4:12pm",0.78,869920,psegura@me.bergen.edu,GENAS/
+,,"2025-02-10, 5:00pm",1.03,869920,psegura@me.bergen.edu,GENAS/
+,,"2025-02-17, 4:03pm",0.93,869920,psegura@me.bergen.edu,GENAS/
+,"Segura, Paul visits: 5",Visits: 5,Hours: 4.24,,,
+,"Ulaikere, Alicia","2025-04-16, 4:06pm",0.87,909786,aulaikere@me.bergen.edu,ENG/
+,,"2025-05-05, 12:38pm",0.78,909786,aulaikere@me.bergen.edu,ENG/
+,"Ulaikere, Alicia visits: 2",Visits: 2,Hours: 1.65,,,
+,"Zuluaga, Cristian","2025-01-27, 3:59pm",0.95,844370,czuluaga10@me.bergen.edu,IT/
+,,"2025-02-10, 4:01pm",1.2,844370,czuluaga10@me.bergen.edu,IT/
+,,"2025-02-10, 5:13pm",0.82,844370,czuluaga10@me.bergen.edu,IT/
+,,"2025-02-24, 4:01pm",0.87,844370,czuluaga10@me.bergen.edu,IT/
+,,"2025-02-26, 3:59pm",0.95,844370,czuluaga10@me.bergen.edu,IT/
+,,"2025-03-03, 4:00pm",0.87,844370,czuluaga10@me.bergen.edu,IT/
+,,"2025-03-03, 5:01pm",0.91,844370,czuluaga10@me.bergen.edu,IT/
+,,"2025-04-02, 4:00pm",0.9,844370,czuluaga10@me.bergen.edu,IT/
+,,"2025-04-07, 4:01pm",0.92,844370,czuluaga10@me.bergen.edu,IT/
+,"Zuluaga, Cristian visits: 9",Visits: 9,Hours: 8.39,,,
+MAT280 P041 20252 visits: 79,,Visits: 79,Hours: 69.35,,,
+MAT281 002 20252,"Keskin, Zafer","2025-01-28, 10:36am",0.83,923599,zkeskin158722@me.bergen.edu,BNF/
+,,"2025-01-30, 10:28am",0.88,923599,zkeskin158722@me.bergen.edu,BNF/
+,,"2025-02-04, 10:37am",0.75,923599,zkeskin158722@me.bergen.edu,BNF/
+,"Keskin, Zafer visits: 3",Visits: 3,Hours: 2.46,,,
+,"Mahmood, Abdul","2025-01-23, 10:30am",0.87,900422,amahmood150653@me.bergen.edu,CCSC/
+,,"2025-01-28, 10:25am",1.02,900422,amahmood150653@me.bergen.edu,CCSC/
+,,"2025-01-30, 10:25am",0.93,900422,amahmood150653@me.bergen.edu,CCSC/
+,,"2025-02-13, 10:31am",0.88,900422,amahmood150653@me.bergen.edu,CCSC/
+,,"2025-02-20, 10:32am",0.6,900422,amahmood150653@me.bergen.edu,CCSC/
+,"Mahmood, Abdul visits: 5",Visits: 5,Hours: 4.30,,,
+,"Makhmutova, Zhyldyz","2025-01-28, 10:32am",0.92,912974,zmakhmutova@me.bergen.edu,CCSC/
+,,"2025-02-04, 10:35am",0.8,912974,zmakhmutova@me.bergen.edu,CCSC/
+,,"2025-02-11, 10:34am",0.82,912974,zmakhmutova@me.bergen.edu,CCSC/
+,,"2025-02-18, 10:37am",0.78,912974,zmakhmutova@me.bergen.edu,CCSC/
+,,"2025-02-25, 10:31am",0.88,912974,zmakhmutova@me.bergen.edu,CCSC/
+,,"2025-04-08, 10:28am",0.93,912974,zmakhmutova@me.bergen.edu,CCSC/
+,"Makhmutova, Zhyldyz visits: 6",Visits: 6,Hours: 5.13,,,
+,"Manning, Jordan","2025-01-28, 10:31am",0.93,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-01-30, 10:29am",0.87,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-02-04, 10:32am",0.85,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-02-11, 10:30am",0.9,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-02-13, 10:33am",0.83,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-02-18, 10:30am",0.9,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-02-20, 10:30am",0.88,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-02-25, 10:33am",0.8,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-02-27, 10:35am",0.82,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-03-04, 10:32am",0.8,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-03-06, 10:32am",0.9,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-03-18, 10:34am",0.78,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-03-25, 10:31am",0.93,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-03-27, 10:33am",0.8,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-04-01, 10:33am",0.78,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-04-03, 10:32am",0.83,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-04-03, 10:33am",0.83,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-04-08, 10:33am",0.8,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-04-10, 10:33am",0.82,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-04-15, 10:41am",0.65,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-04-15, 11:25am",0.93,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-04-22, 10:33am",0.82,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-04-24, 10:33am",0.8,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-04-29, 10:35am",0.75,722550,jmanning87635@me.bergen.edu,CCSC/
+,,"2025-05-01, 10:32am",0.87,722550,jmanning87635@me.bergen.edu,CCSC/
+,"Manning, Jordan visits: 25",Visits: 25,Hours: 20.87,,,
+,"Mejia, Michael","2025-01-28, 10:45am",0.7,880157,mmejia143751@me.bergen.edu,ENG/
+,,"2025-04-22, 10:44am",0.65,880157,mmejia143751@me.bergen.edu,ENG/
+,"Mejia, Michael visits: 2",Visits: 2,Hours: 1.35,,,
+,"Trobo, Bruno","2025-02-18, 10:35am",0.82,875710,btrobo@me.bergen.edu,ENG/
+,,"2025-02-25, 10:31am",0.85,875710,btrobo@me.bergen.edu,ENG/
+,,"2025-02-27, 10:36am",0.82,875710,btrobo@me.bergen.edu,ENG/
+,,"2025-03-06, 10:20am",1.1,875710,btrobo@me.bergen.edu,ENG/
+,,"2025-03-25, 10:21am",1.1,875710,btrobo@me.bergen.edu,ENG/
+,,"2025-04-01, 10:30am",0.83,875710,btrobo@me.bergen.edu,ENG/
+,,"2025-04-03, 10:32am",0.83,875710,btrobo@me.bergen.edu,ENG/
+,,"2025-04-24, 10:30am",0.85,875710,btrobo@me.bergen.edu,ENG/
+,,"2025-04-29, 10:30am",0.85,875710,btrobo@me.bergen.edu,ENG/
+,,"2025-04-29, 10:30am",1,875710,btrobo@me.bergen.edu,ENG/
+,"Trobo, Bruno visits: 10",Visits: 10,Hours: 9.05,,,
+MAT281 002 20252 visits: 51,,Visits: 51,Hours: 43.16,,,
+MAT281 P030 20252,"Armout, Matthew","2025-02-26, 4:00pm",0.93,916400,marmout@me.bergen.edu,CCSC/
+,"Armout, Matthew visits: 1",Visits: 1,Hours: 0.93,,,
+MAT281 P030 20252 visits: 1,,Visits: 1,Hours: 0.93,,,
+MAT286 020 20252,"Aksehirli, Semih","2025-01-22, 10:40am",0.71,900063,saksehirli@me.bergen.edu,CCSC/
+,,"2025-02-10, 10:46am",1.5,900063,saksehirli@me.bergen.edu,CCSC/
+,,"2025-02-12, 10:32am",0.95,900063,saksehirli@me.bergen.edu,CCSC/
+,,"2025-02-17, 10:00am",0.33,900063,saksehirli@me.bergen.edu,CCSC/
+,,"2025-02-17, 10:32am",1.5,900063,saksehirli@me.bergen.edu,CCSC/
+,,"2025-04-28, 9:30am",0.83,900063,saksehirli@me.bergen.edu,CCSC/
+,,"2025-04-28, 10:37am",1.5,900063,saksehirli@me.bergen.edu,CCSC/
+,"Aksehirli, Semih visits: 7",Visits: 7,Hours: 7.32,,,
+,"Caballero, Ivanna","2025-02-19, 10:44am",1.5,902705,icaballero151476@me.bergen.edu,MATH/
+,,"2025-03-24, 9:30am",0.83,902705,icaballero151476@me.bergen.edu,MATH/
+,,"2025-03-24, 10:32am",1.5,902705,icaballero151476@me.bergen.edu,MATH/
+,"Caballero, Ivanna visits: 3",Visits: 3,Hours: 3.83,,,
+,"Dinler, Yavuz Berk","2025-02-05, 10:34am",1.1,915819,ydinler@me.bergen.edu,PHYSC/
+,,"2025-03-24, 9:35am",1,915819,ydinler@me.bergen.edu,PHYSC/
+,,"2025-03-24, 10:49am",1.5,915819,ydinler@me.bergen.edu,PHYSC/
+,,"2025-04-28, 9:30am",0.83,915819,ydinler@me.bergen.edu,PHYSC/
+,,"2025-04-28, 10:35am",0.86,915819,ydinler@me.bergen.edu,PHYSC/
+,,"2025-05-07, 9:30am",0.83,915819,ydinler@me.bergen.edu,PHYSC/
+,,"2025-05-07, 10:33am",1.5,915819,ydinler@me.bergen.edu,PHYSC/
+,"Dinler, Yavuz Berk visits: 7",Visits: 7,Hours: 7.62,,,
+,"Echeverry, Jacobo","2025-04-28, 9:30am",0.83,842774,jecheverry130109@me.bergen.edu,CCSC/
+,,"2025-04-28, 10:23am",1.5,842774,jecheverry130109@me.bergen.edu,CCSC/
+,,"2025-05-07, 10:00am",0.83,842774,jecheverry130109@me.bergen.edu,CCSC/
+,,"2025-05-07, 10:30am",1.5,842774,jecheverry130109@me.bergen.edu,CCSC/
+,"Echeverry, Jacobo visits: 4",Visits: 4,Hours: 4.66,,,
+,"Fulcher, Trevor","2025-01-22, 10:41am",0.7,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-01-27, 10:29am",1.5,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-01-29, 10:36am",0.78,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-02-03, 10:31am",0.85,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-02-10, 10:31am",0.87,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-02-12, 10:41am",0.8,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-02-17, 10:33am",0.7,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-02-26, 10:30am",0.81,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-03-03, 10:37am",0.73,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-03-17, 10:38am",0.72,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-03-19, 10:32am",0.8,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-03-24, 9:56am",0.55,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-03-24, 10:30am",0.83,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-03-24, 10:31am",1.5,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-03-31, 10:31am",0.78,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-04-02, 10:35am",0.72,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-04-07, 10:31am",0.77,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-04-23, 10:34am",1.15,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-05-07, 9:30am",0.83,893255,tfulcher@me.bergen.edu,CCSC/
+,,"2025-05-07, 10:40am",1.25,893255,tfulcher@me.bergen.edu,CCSC/
+,"Fulcher, Trevor visits: 20",Visits: 20,Hours: 17.64,,,
+,"Hammou, Youssef","2025-01-27, 10:39am",1.5,900447,yhammou@me.bergen.edu,ENG/
+,,"2025-01-29, 10:38am",0.81,900447,yhammou@me.bergen.edu,ENG/
+,,"2025-02-03, 11:14am",0.13,900447,yhammou@me.bergen.edu,ENG/
+,,"2025-02-17, 9:46am",0.67,900447,yhammou@me.bergen.edu,ENG/
+,,"2025-02-17, 10:32am",0.79,900447,yhammou@me.bergen.edu,ENG/
+,,"2025-03-17, 10:40am",0.68,900447,yhammou@me.bergen.edu,ENG/
+,,"2025-03-24, 9:38am",1,900447,yhammou@me.bergen.edu,ENG/
+,,"2025-03-31, 11:12am",0.1,900447,yhammou@me.bergen.edu,ENG/
+,,"2025-04-28, 9:30am",0.83,900447,yhammou@me.bergen.edu,ENG/
+,,"2025-04-28, 10:35am",0.93,900447,yhammou@me.bergen.edu,ENG/
+,,"2025-05-07, 9:30am",0.83,900447,yhammou@me.bergen.edu,ENG/
+,,"2025-05-07, 10:40am",1.25,900447,yhammou@me.bergen.edu,ENG/
+,"Hammou, Youssef visits: 12",Visits: 12,Hours: 9.52,,,
+,"Kim, Andrew","2025-03-19, 10:41am",0.65,897735,akim149763@me.bergen.edu,CCSC/
+,"Kim, Andrew visits: 1",Visits: 1,Hours: 0.65,,,
+,"Kim, Sungho","2025-02-17, 10:44am",0.52,838500,skim128618@me.bergen.edu,CCSC/
+,"Kim, Sungho visits: 1",Visits: 1,Hours: 0.52,,,
+,"Kurt, Hazmi","2025-01-22, 10:29am",0.89,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-01-27, 10:30am",1.5,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-01-29, 10:35am",0.73,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-02-03, 10:34am",0.82,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-02-05, 10:54am",0.75,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-02-10, 10:49am",1.5,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-02-12, 10:41am",1.5,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-02-17, 9:28am",1,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-02-17, 10:30am",1,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-02-26, 10:42am",1.1,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-03-17, 10:44am",1.5,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-03-19, 10:29am",0.8,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-03-24, 9:58am",1,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-03-24, 10:30am",0.83,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-04-09, 10:35am",0.47,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-04-16, 10:30am",0.83,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-04-21, 10:44am",0.93,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-04-28, 9:30am",0.83,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-04-28, 10:30am",1.5,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-05-05, 11:05am",0.61,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-05-07, 9:47am",0.83,910352,hkurt@me.bergen.edu,CCSC/
+,,"2025-05-07, 10:30am",1.5,910352,hkurt@me.bergen.edu,CCSC/
+,"Kurt, Hazmi visits: 22",Visits: 22,Hours: 22.42,,,
+,"Levy, Chen","2025-02-17, 10:40am",1.5,877197,clevy@me.bergen.edu,BIO/
+,,"2025-03-24, 9:33am",1.5,877197,clevy@me.bergen.edu,BIO/
+,,"2025-03-24, 10:30am",0.83,877197,clevy@me.bergen.edu,BIO/
+,,"2025-04-28, 9:30am",0.83,877197,clevy@me.bergen.edu,BIO/
+,,"2025-04-28, 10:30am",0.83,877197,clevy@me.bergen.edu,BIO/
+,,"2025-05-07, 10:24am",0.83,877197,clevy@me.bergen.edu,BIO/
+,,"2025-05-07, 10:30am",1.5,877197,clevy@me.bergen.edu,BIO/
+,"Levy, Chen visits: 7",Visits: 7,Hours: 7.82,,,
+,"Martinez, Lisandro","2025-02-17, 10:08am",0.25,779907,lmartinez4@bergen.edu,NDEG/
+,,"2025-02-17, 10:31am",1.5,779907,lmartinez4@bergen.edu,NDEG/
+,,"2025-04-07, 10:47am",0.51,779907,lmartinez4@bergen.edu,NDEG/
+,,"2025-04-21, 10:37am",0.83,779907,lmartinez4@bergen.edu,NDEG/
+,,"2025-04-28, 9:30am",0.83,779907,lmartinez4@bergen.edu,NDEG/
+,,"2025-04-28, 10:41am",0.83,779907,lmartinez4@bergen.edu,NDEG/
+,,"2025-05-05, 11:06am",0.59,779907,lmartinez4@bergen.edu,NDEG/
+,,"2025-05-07, 9:30am",0.83,779907,lmartinez4@bergen.edu,NDEG/
+,,"2025-05-07, 10:38am",1.25,779907,lmartinez4@bergen.edu,NDEG/
+,"Martinez, Lisandro visits: 9",Visits: 9,Hours: 7.42,,,
+,"Nicholas, Vasilios","2025-05-05, 10:33am",1.14,928306,vnicholas@me.bergen.edu,NDEG/
+,"Nicholas, Vasilios visits: 1",Visits: 1,Hours: 1.14,,,
+,"Perez, Emmanuel","2025-02-17, 9:31am",0.87,913109,eperez155095@me.bergen.edu,MATH/
+,,"2025-02-17, 10:31am",0.73,913109,eperez155095@me.bergen.edu,MATH/
+,,"2025-02-26, 10:32am",0.77,913109,eperez155095@me.bergen.edu,MATH/
+,,"2025-03-03, 10:37am",0.73,913109,eperez155095@me.bergen.edu,MATH/
+,,"2025-03-17, 10:38am",0.72,913109,eperez155095@me.bergen.edu,MATH/
+,,"2025-03-24, 9:34am",0.9,913109,eperez155095@me.bergen.edu,MATH/
+,,"2025-03-24, 10:29am",1.5,913109,eperez155095@me.bergen.edu,MATH/
+,,"2025-03-31, 11:12am",0.1,913109,eperez155095@me.bergen.edu,MATH/
+,,"2025-04-28, 9:30am",0.83,913109,eperez155095@me.bergen.edu,MATH/
+,,"2025-04-28, 10:34am",0.87,913109,eperez155095@me.bergen.edu,MATH/
+,,"2025-05-05, 10:32am",0.76,913109,eperez155095@me.bergen.edu,MATH/
+,"Perez, Emmanuel visits: 11",Visits: 11,Hours: 8.78,,,
+,"Perez, Jadon","2025-01-27, 11:18am",1.5,879771,jperez143611@me.bergen.edu,ENG/
+,,"2025-05-07, 9:47am",0.86,879771,jperez143611@me.bergen.edu,ENG/
+,,"2025-05-07, 10:56am",1.25,879771,jperez143611@me.bergen.edu,ENG/
+,"Perez, Jadon visits: 3",Visits: 3,Hours: 3.61,,,
+,"Rodriguez, Jordan","2025-02-26, 10:32am",1.27,912646,jrodriguez154929@me.bergen.edu,CCSC/
+,,"2025-03-03, 10:36am",0.73,912646,jrodriguez154929@me.bergen.edu,CCSC/
+,,"2025-03-19, 10:28am",0.9,912646,jrodriguez154929@me.bergen.edu,CCSC/
+,,"2025-04-28, 9:30am",0.83,912646,jrodriguez154929@me.bergen.edu,CCSC/
+,,"2025-04-28, 10:23am",1.5,912646,jrodriguez154929@me.bergen.edu,CCSC/
+,,"2025-05-07, 9:42am",0.83,912646,jrodriguez154929@me.bergen.edu,CCSC/
+,,"2025-05-07, 10:30am",1.5,912646,jrodriguez154929@me.bergen.edu,CCSC/
+,"Rodriguez, Jordan visits: 7",Visits: 7,Hours: 7.56,,,
+,"Sepulveda, Jonathan","2025-02-17, 10:34am",0.78,928129,jsepulveda@me.bergen.edu,CCSC/
+,,"2025-04-07, 10:45am",1,928129,jsepulveda@me.bergen.edu,CCSC/
+,,"2025-04-09, 10:44am",0.62,928129,jsepulveda@me.bergen.edu,CCSC/
+,,"2025-04-16, 10:46am",0.97,928129,jsepulveda@me.bergen.edu,CCSC/
+,,"2025-04-21, 10:37am",1.04,928129,jsepulveda@me.bergen.edu,CCSC/
+,,"2025-04-23, 10:35am",1.13,928129,jsepulveda@me.bergen.edu,CCSC/
+,,"2025-04-28, 9:30am",0.83,928129,jsepulveda@me.bergen.edu,CCSC/
+,,"2025-04-28, 10:30am",0.83,928129,jsepulveda@me.bergen.edu,CCSC/
+,,"2025-05-07, 9:30am",0.83,928129,jsepulveda@me.bergen.edu,CCSC/
+,,"2025-05-07, 10:25am",1.5,928129,jsepulveda@me.bergen.edu,CCSC/
+,"Sepulveda, Jonathan visits: 10",Visits: 10,Hours: 9.53,,,
+,"Sidahmed, Waad","2025-01-27, 11:06am",1.5,869359,wsidahmed@me.bergen.edu,CCSC/
+,,"2025-02-10, 10:32am",1.5,869359,wsidahmed@me.bergen.edu,CCSC/
+,,"2025-02-12, 10:58am",0.52,869359,wsidahmed@me.bergen.edu,CCSC/
+,,"2025-02-17, 9:36am",0.78,869359,wsidahmed@me.bergen.edu,CCSC/
+,,"2025-02-17, 10:35am",1.5,869359,wsidahmed@me.bergen.edu,CCSC/
+,,"2025-03-17, 11:20am",1.5,869359,wsidahmed@me.bergen.edu,CCSC/
+,,"2025-03-24, 9:37am",1,869359,wsidahmed@me.bergen.edu,CCSC/
+,,"2025-03-24, 10:30am",0.83,869359,wsidahmed@me.bergen.edu,CCSC/
+,,"2025-04-28, 10:30am",0.83,869359,wsidahmed@me.bergen.edu,CCSC/
+,,"2025-05-07, 9:30am",0.83,869359,wsidahmed@me.bergen.edu,CCSC/
+,,"2025-05-07, 10:30am",1.5,869359,wsidahmed@me.bergen.edu,CCSC/
+,"Sidahmed, Waad visits: 11",Visits: 11,Hours: 12.29,,,
+,"Taskiran, Ahmet","2025-02-17, 10:38am",0.71,854071,ataskiran@me.bergen.edu,CCSC/
+,"Taskiran, Ahmet visits: 1",Visits: 1,Hours: 0.71,,,
+MAT286 020 20252 visits: 137,,Visits: 137,Hours: 133.04,,,
+PHY280 001 20252,"Ulaikere, Alicia","2025-02-20, 6:44pm",0.7,909786,aulaikere@me.bergen.edu,ENG/
+,"Ulaikere, Alicia visits: 1",Visits: 1,Hours: 0.70,,,
+PHY280 001 20252 visits: 1,,Visits: 1,Hours: 0.70,,,
+PHY280 031 20252,"Corredor, Siloe","2025-02-25, 2:07pm",0.78,916644,scorredor1@bergen.edu; ssiloeva@gmail.com,GENAS/
+,"Corredor, Siloe visits: 1",Visits: 1,Hours: 0.78,,,
+,"Kim, Edward","2025-02-18, 2:06pm",0.78,570895,fishsauceboba@gmail.com,ENG/
+,,"2025-02-25, 2:07pm",0.78,570895,fishsauceboba@gmail.com,ENG/
+,,"2025-03-04, 2:16pm",0.7,570895,fishsauceboba@gmail.com,ENG/
+,"Kim, Edward visits: 3",Visits: 3,Hours: 2.26,,,
+PHY280 031 20252 visits: 4,,Visits: 4,Hours: 3.04,,,
+PHY280 150 20252,"Gania, Angelica","2025-04-03, 6:36pm",1.02,887596,agania@me.bergen.edu,CCSC/
+,,"2025-04-08, 2:07pm",0.87,887596,agania@me.bergen.edu,CCSC/
+,,"2025-04-24, 6:33pm",1,887596,agania@me.bergen.edu,CCSC/
+,,"2025-05-01, 6:28pm",1.08,887596,agania@me.bergen.edu,CCSC/
+,,"2025-05-06, 2:04pm",0.87,887596,agania@me.bergen.edu,CCSC/
+,"Gania, Angelica visits: 5",Visits: 5,Hours: 4.84,,,
+,"Garcia, Andre","2025-03-25, 2:08pm",0.8,906414,agarcia152861@me.bergen.edu,ENG/
+,"Garcia, Andre visits: 1",Visits: 1,Hours: 0.80,,,
+,"Kaplan, Alec","2025-02-11, 2:04pm",0.25,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-02-13, 6:33pm",0.87,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-02-18, 2:01pm",0.85,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-02-20, 6:37pm",0.82,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-02-25, 1:59pm",0.92,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-02-27, 7:13pm",0.28,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-03-04, 2:05pm",0.88,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-03-06, 6:35pm",0.8,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-03-18, 2:05pm",0.84,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-03-25, 2:01pm",0.92,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-03-27, 6:32pm",0.9,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-04-01, 2:25pm",0.63,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-04-03, 6:36pm",1.02,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-04-08, 2:00pm",0.97,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-04-10, 6:58pm",0.57,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-04-15, 2:03pm",0.88,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-04-17, 6:36pm",0.93,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-04-24, 6:32pm",1.02,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-04-29, 2:05pm",0.78,906639,akaplan152963@me.bergen.edu,CHEM/
+,,"2025-05-01, 6:28pm",1.08,906639,akaplan152963@me.bergen.edu,CHEM/
+,"Kaplan, Alec visits: 20",Visits: 20,Hours: 16.21,,,
+,"Keskin, Zafer","2025-02-18, 2:05pm",0.78,923599,zkeskin158722@me.bergen.edu,BNF/
+,"Keskin, Zafer visits: 1",Visits: 1,Hours: 0.78,,,
+,"Khamisa, Rania","2025-03-04, 2:17pm",0.7,904333,rkhamisa@me.bergen.edu,ENG/
+,,"2025-03-18, 2:08pm",0.78,904333,rkhamisa@me.bergen.edu,ENG/
+,,"2025-04-08, 2:06pm",0.87,904333,rkhamisa@me.bergen.edu,ENG/
+,,"2025-05-06, 2:12pm",0.75,904333,rkhamisa@me.bergen.edu,ENG/
+,"Khamisa, Rania visits: 4",Visits: 4,Hours: 3.10,,,
+,"Kim, Justin","2025-03-04, 1:56pm",1.03,868254,jkim139694@me.bergen.edu,ENG/
+,,"2025-03-18, 2:05pm",0.84,868254,jkim139694@me.bergen.edu,ENG/
+,,"2025-03-25, 2:00pm",0.93,868254,jkim139694@me.bergen.edu,ENG/
+,,"2025-04-01, 2:03pm",1,868254,jkim139694@me.bergen.edu,ENG/
+,,"2025-04-03, 6:36pm",1.02,868254,jkim139694@me.bergen.edu,ENG/
+,,"2025-04-08, 1:58pm",1,868254,jkim139694@me.bergen.edu,ENG/
+,,"2025-04-10, 6:58pm",0.57,868254,jkim139694@me.bergen.edu,ENG/
+,,"2025-04-15, 1:55pm",1.02,868254,jkim139694@me.bergen.edu,ENG/
+,,"2025-04-17, 6:36pm",0.93,868254,jkim139694@me.bergen.edu,ENG/
+,,"2025-04-24, 6:33pm",1,868254,jkim139694@me.bergen.edu,ENG/
+,,"2025-04-29, 2:05pm",0.8,868254,jkim139694@me.bergen.edu,ENG/
+,,"2025-05-01, 6:28pm",1.08,868254,jkim139694@me.bergen.edu,ENG/
+,,"2025-05-06, 2:03pm",0.88,868254,jkim139694@me.bergen.edu,ENG/
+,"Kim, Justin visits: 13",Visits: 13,Hours: 12.10,,,
+,"Obidat, Mahmood","2025-02-13, 6:34pm",0.57,913608,mobidat155297@me.bergen.edu,CCSC/
+,"Obidat, Mahmood visits: 1",Visits: 1,Hours: 0.57,,,
+,"Perkovic, Mihael","2025-02-13, 6:33pm",0.87,861374,mperkovic@me.bergen.edu,CCSC/
+,,"2025-02-20, 6:37pm",0.82,861374,mperkovic@me.bergen.edu,CCSC/
+,,"2025-02-27, 7:13pm",0.28,861374,mperkovic@me.bergen.edu,CCSC/
+,,"2025-03-06, 6:35pm",0.82,861374,mperkovic@me.bergen.edu,CCSC/
+,,"2025-03-20, 6:37pm",0.85,861374,mperkovic@me.bergen.edu,CCSC/
+,,"2025-03-27, 6:32pm",0.9,861374,mperkovic@me.bergen.edu,CCSC/
+,,"2025-04-03, 6:36pm",1.02,861374,mperkovic@me.bergen.edu,CCSC/
+,,"2025-04-10, 6:58pm",0.57,861374,mperkovic@me.bergen.edu,CCSC/
+,,"2025-04-17, 6:36pm",0.93,861374,mperkovic@me.bergen.edu,CCSC/
+,,"2025-04-24, 6:33pm",1,861374,mperkovic@me.bergen.edu,CCSC/
+,,"2025-05-01, 6:28pm",1.08,861374,mperkovic@me.bergen.edu,CCSC/
+,"Perkovic, Mihael visits: 11",Visits: 11,Hours: 9.14,,,
+,"Ritsma, Jaden","2025-03-18, 2:14pm",0.68,940155,jritsma@me.bergen.edu,ENG/
+,,"2025-04-08, 2:09pm",0.83,940155,jritsma@me.bergen.edu,ENG/
+,,"2025-04-15, 2:03pm",0.88,940155,jritsma@me.bergen.edu,ENG/
+,,"2025-05-06, 2:11pm",0.75,940155,jritsma@me.bergen.edu,ENG/
+,"Ritsma, Jaden visits: 4",Visits: 4,Hours: 3.14,,,
+PHY280 150 20252 visits: 60,,Visits: 60,Hours: 50.68,,,
+PHY280 E080 20252,"Nunez, Luccia","2025-03-20, 6:37pm",0.85,877205,lnunez142640@me.bergen.edu,GENAS/
+,,"2025-03-27, 6:33pm",0.9,877205,lnunez142640@me.bergen.edu,GENAS/
+,,"2025-04-17, 6:40pm",0.67,877205,lnunez142640@me.bergen.edu,GENAS/
+,"Nunez, Luccia visits: 3",Visits: 3,Hours: 2.42,,,
+PHY280 E080 20252 visits: 3,,Visits: 3,Hours: 2.42,,,
+PHY290 031 20252,"Ali, Raqib","2025-02-11, 11:59am",0.95,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-02-11, 1:00pm",0.73,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-03-06, 1:02pm",0.83,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-03-06, 2:02pm",0.78,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-04-01, 12:13pm",0.67,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-04-01, 1:00pm",0.83,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-04-03, 1:13pm",0.65,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-04-03, 1:59pm",0.83,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-04-08, 12:03pm",0.8,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-04-08, 1:01pm",0.75,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-04-22, 12:00pm",1,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-04-22, 1:00pm",1,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-04-29, 12:00pm",0.92,930195,rali161823@me.bergen.edu,CCSC/
+,,"2025-04-29, 1:04pm",0.78,930195,rali161823@me.bergen.edu,CCSC/
+,"Ali, Raqib visits: 14",Visits: 14,Hours: 11.52,,,
+,"Concha, Joen","2025-02-11, 12:00pm",0.93,886945,econcha146191@me.bergen.edu,ENG/
+,,"2025-02-11, 1:01pm",0.72,886945,econcha146191@me.bergen.edu,ENG/
+,"Concha, Joen visits: 2",Visits: 2,Hours: 1.65,,,
+,"Dokle, Herald","2025-02-11, 1:07pm",0.58,838407,heralddokle15@gmail.com: hdokle@me.bergen.edu,ENG/
+,"Dokle, Herald visits: 1",Visits: 1,Hours: 0.58,,,
+,"Elopre, Vincent","2025-01-28, 12:32pm",0.6,916369,velopre@me.bergen.edu,CCSC/
+,,"2025-04-08, 12:18pm",0.55,916369,velopre@me.bergen.edu,CCSC/
+,,"2025-04-08, 1:01pm",0.75,916369,velopre@me.bergen.edu,CCSC/
+,,"2025-04-15, 12:04pm",0.77,916369,velopre@me.bergen.edu,CCSC/
+,,"2025-04-15, 1:00pm",1,916369,velopre@me.bergen.edu,CCSC/
+,,"2025-04-22, 12:00pm",1,916369,velopre@me.bergen.edu,CCSC/
+,,"2025-04-22, 1:00pm",1,916369,velopre@me.bergen.edu,CCSC/
+,,"2025-04-29, 12:00pm",0.92,916369,velopre@me.bergen.edu,CCSC/
+,,"2025-04-29, 1:04pm",0.78,916369,velopre@me.bergen.edu,CCSC/
+,"Elopre, Vincent visits: 9",Visits: 9,Hours: 7.37,,,
+,"Manevich, Michael","2025-01-28, 12:03pm",0.57,939652,mmanevich@me.bergen.edu,CCSC/
+,,"2025-04-01, 12:03pm",0.83,939652,mmanevich@me.bergen.edu,CCSC/
+,,"2025-04-01, 1:00pm",0.82,939652,mmanevich@me.bergen.edu,CCSC/
+,,"2025-04-03, 12:04pm",0.83,939652,mmanevich@me.bergen.edu,CCSC/
+,,"2025-04-03, 1:11pm",0.83,939652,mmanevich@me.bergen.edu,CCSC/
+,"Manevich, Michael visits: 5",Visits: 5,Hours: 3.88,,,
+,"Morales, Amanda","2025-01-28, 12:04pm",1.05,811700,amorales10@me.bergen.edu,ENG/
+,,"2025-02-11, 11:59am",0.95,811700,amorales10@me.bergen.edu,ENG/
+,,"2025-02-11, 1:00pm",0.73,811700,amorales10@me.bergen.edu,ENG/
+,,"2025-04-08, 12:11pm",0.67,811700,amorales10@me.bergen.edu,ENG/
+,,"2025-04-08, 1:01pm",0.75,811700,amorales10@me.bergen.edu,ENG/
+,,"2025-04-22, 12:00pm",1,811700,amorales10@me.bergen.edu,ENG/
+,,"2025-04-22, 1:00pm",1,811700,amorales10@me.bergen.edu,ENG/
+,"Morales, Amanda visits: 7",Visits: 7,Hours: 6.15,,,
+,"Rodney, Jevon","2025-01-28, 12:03pm",1.07,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-01-30, 12:01pm",0.93,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-02-04, 12:02pm",0.88,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-02-04, 1:27pm",0.4,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-02-11, 12:02pm",0.92,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-02-11, 1:00pm",0.73,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-02-18, 12:15pm",1,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-02-18, 1:46pm",1.1,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-02-25, 12:00pm",0.9,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-02-25, 1:00pm",0.98,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-03-04, 12:54pm",0.83,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-03-06, 1:01pm",0.83,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-03-06, 2:02pm",0.78,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-03-18, 12:14pm",0.83,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-03-18, 1:00pm",0.83,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-03-25, 12:10pm",0.67,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-03-25, 1:06pm",0.73,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-04-08, 12:00pm",0.75,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-04-08, 1:02pm",0.73,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-04-15, 12:00pm",0.92,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-04-15, 1:05pm",0.83,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-04-22, 12:00pm",1,729960,jrodney@me.bergen.edu,ENG/
+,,"2025-04-22, 1:00pm",1,729960,jrodney@me.bergen.edu,ENG/
+,"Rodney, Jevon visits: 23",Visits: 23,Hours: 19.64,,,
+,"Vargas Coello, Isaac","2025-02-25, 12:01pm",0.88,898123,ivargas149862@me.bergen.edu,ENG/
+,,"2025-02-25, 1:00pm",0.98,898123,ivargas149862@me.bergen.edu,ENG/
+,"Vargas Coello, Isaac visits: 2",Visits: 2,Hours: 1.86,,,
+,"Zeidan, Naseem","2025-01-28, 12:06pm",1.03,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-02-04, 12:24pm",0.53,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-02-04, 1:06pm",0.75,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-02-11, 12:16pm",0.67,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-02-11, 1:01pm",0.77,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-02-25, 11:59am",0.9,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-02-25, 1:00pm",0.97,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-03-06, 1:13pm",0.65,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-03-06, 2:03pm",0.78,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-03-18, 12:00pm",0.83,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-03-18, 1:00pm",0.83,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-04-01, 12:21pm",0.55,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-04-01, 1:00pm",0.83,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-04-03, 12:04pm",0.83,742852,nzeidan@me.bergen.edu,NDEG/
+,,"2025-04-03, 1:11pm",0.83,742852,nzeidan@me.bergen.edu,NDEG/
+,"Zeidan, Naseem visits: 15",Visits: 15,Hours: 11.75,,,
+PHY290 031 20252 visits: 78,,Visits: 78,Hours: 64.40,,,
+SOC101 021 20252,"Kim, Ji Hye","2025-01-27, 3:15pm",1,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-01-29, 3:23pm",0.88,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-02-05, 10:30am",0.37,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-02-10, 3:27pm",0.62,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-02-12, 3:20pm",0.77,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-02-17, 3:21pm",0.75,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-02-19, 3:18pm",0.83,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-02-24, 3:19pm",0.82,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-02-26, 3:19pm",0.75,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-03-03, 3:22pm",0.7,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-03-05, 3:19pm",0.77,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-03-17, 3:22pm",0.68,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-03-24, 4:30pm",0.87,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-03-26, 3:15pm",1,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-04-02, 3:18pm",0.82,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-04-07, 4:30pm",0.87,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-04-09, 3:18pm",0.8,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-04-14, 3:17pm",0.8,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-04-21, 3:15pm",0.83,929670,jkim161416@me.bergen.edu,GENPS/
+,,"2025-04-23, 3:15pm",1,929670,jkim161416@me.bergen.edu,GENPS/
+,"Kim, Ji Hye visits: 20",Visits: 20,Hours: 15.93,,,
+,"Soria, Neker","2025-04-21, 3:15pm",0.83,803369,nsoria@me.bergen.edu,GENPS/
+,"Soria, Neker visits: 1",Visits: 1,Hours: 0.83,,,
+SOC101 021 20252 visits: 21,,Visits: 21,Hours: 16.76,,,
+SOC101 040 20252,"Adrians, Clara","2025-01-27, 3:15pm",1,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-01-29, 3:18pm",0.97,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-02-05, 10:31am",0.83,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-02-10, 3:19pm",0.77,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-02-12, 3:16pm",0.85,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-02-17, 3:21pm",0.75,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-02-19, 3:18pm",0.83,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-02-24, 3:21pm",0.8,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-02-26, 3:18pm",0.78,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-03-03, 3:22pm",0.7,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-03-05, 3:18pm",0.78,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-03-17, 3:16pm",0.8,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-03-24, 4:32pm",0.82,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-04-07, 4:30pm",0.87,249639,cadrians@me.bergen.edu,GENPS/
+,,"2025-04-09, 3:20pm",0.75,249639,cadrians@me.bergen.edu,GENPS/
+,"Adrians, Clara visits: 15",Visits: 15,Hours: 12.30,,,
+,"Bevilacqua, Michael","2025-02-12, 3:18pm",0.8,910282,mbevilacqua154148@me.bergen.edu,CEXER/
+,"Bevilacqua, Michael visits: 1",Visits: 1,Hours: 0.80,,,
+,"Soria, Neker","2025-02-24, 3:32pm",0.55,803369,nsoria@me.bergen.edu,GENPS/
+,,"2025-02-26, 3:18pm",0.78,803369,nsoria@me.bergen.edu,GENPS/
+,,"2025-03-03, 3:17pm",0.8,803369,nsoria@me.bergen.edu,GENPS/
+,,"2025-03-05, 3:21pm",0.73,803369,nsoria@me.bergen.edu,GENPS/
+,,"2025-03-24, 4:30pm",0.87,803369,nsoria@me.bergen.edu,GENPS/
+,,"2025-03-26, 3:15pm",1,803369,nsoria@me.bergen.edu,GENPS/
+,,"2025-04-07, 4:30pm",0.87,803369,nsoria@me.bergen.edu,GENPS/
+,,"2025-04-09, 3:22pm",0.72,803369,nsoria@me.bergen.edu,GENPS/
+,,"2025-04-14, 3:17pm",0.82,803369,nsoria@me.bergen.edu,GENPS/
+,,"2025-04-16, 3:19pm",0.78,803369,nsoria@me.bergen.edu,GENPS/
+,,"2025-04-23, 3:15pm",1,803369,nsoria@me.bergen.edu,GENPS/
+,"Soria, Neker visits: 11",Visits: 11,Hours: 8.92,,,
+,"Then, Michael","2025-01-27, 3:15pm",1,595805,mthen69162@me.bergen.edu,GENPS/
+,,"2025-01-29, 3:16pm",1.02,595805,mthen69162@me.bergen.edu,GENPS/
+,"Then, Michael visits: 2",Visits: 2,Hours: 2.02,,,
+SOC101 040 20252 visits: 29,,Visits: 29,Hours: 24.04,,,
+Subject/Course/Section count: 34,Student unique count: 206,"Visits: 1,192","Hours: 1,021.61",,,
+"Total visits: 1,192",Total unique students: 206,"Total visit hours: 1,021.61",,,,
