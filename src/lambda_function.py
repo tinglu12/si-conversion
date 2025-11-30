@@ -2,6 +2,7 @@ import json
 import base64
 import pandas as pd
 from io import BytesIO
+import zipfile
 
 def process_conversion(csv_content):
     """
@@ -86,14 +87,22 @@ def process_conversion(csv_content):
 
 def lambda_handler(event, context):
     """
-    API Gateway Lambda handler that accepts CSV file and returns converted files
+    API Gateway Lambda handler that accepts CSV file and returns downloadable converted files
     
-    Supports:
-    1. Base64-encoded CSV in request body: {"csv_data": "base64_encoded_string"}
-    2. Multipart form data (if API Gateway is configured for it)
+    Query Parameters:
+    - format=zip (default): Returns ZIP file with both CSV and Excel
+    - format=csv: Returns only CSV file
+    - format=xlsx: Returns only Excel file
+    
+    Request Body:
+    - Base64-encoded CSV: {"csv_data": "base64_encoded_string"}
     """
     
     try:
+        # Get query parameters
+        query_params = event.get('queryStringParameters') or {}
+        file_format = query_params.get('format', 'zip').lower()
+        
         # Parse the request body
         if isinstance(event.get('body'), str):
             body = json.loads(event['body'])
@@ -128,7 +137,7 @@ def lambda_handler(event, context):
         csv_buffer = BytesIO()
         df.to_csv(csv_buffer, index=False)
         csv_buffer.seek(0)
-        csv_base64 = base64.b64encode(csv_buffer.getvalue()).decode('utf-8')
+        csv_data = csv_buffer.getvalue()
         
         # Generate Excel output with colors
         colors = [
@@ -164,23 +173,52 @@ def lambda_handler(event, context):
         excel_buffer = BytesIO()
         styled_df.to_excel(excel_buffer, index=False, engine='openpyxl')
         excel_buffer.seek(0)
-        excel_base64 = base64.b64encode(excel_buffer.getvalue()).decode('utf-8')
+        excel_data = excel_buffer.getvalue()
         
-        # Return both files as base64-encoded strings
-        return {
-            'statusCode': 200,
-            'headers': {
-                'Content-Type': 'application/json',
-                'Access-Control-Allow-Origin': '*'
-            },
-            'body': json.dumps({
-                'message': 'Conversion completed successfully',
-                'csv_file': csv_base64,
-                'excel_file': excel_base64,
-                'csv_filename': 'converted.csv',
-                'excel_filename': 'converted.xlsx'
-            })
-        }
+        # Return file based on format parameter
+        if file_format == 'csv':
+            # Return CSV file
+            return {
+                'statusCode': 200,
+                'headers': {
+                    'Content-Type': 'text/csv',
+                    'Content-Disposition': 'attachment; filename="converted.csv"',
+                    'Access-Control-Allow-Origin': '*'
+                },
+                'isBase64Encoded': True,
+                'body': base64.b64encode(csv_data).decode('utf-8')
+            }
+        elif file_format == 'xlsx':
+            # Return Excel file
+            return {
+                'statusCode': 200,
+                'headers': {
+                    'Content-Type': 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+                    'Content-Disposition': 'attachment; filename="converted.xlsx"',
+                    'Access-Control-Allow-Origin': '*'
+                },
+                'isBase64Encoded': True,
+                'body': base64.b64encode(excel_data).decode('utf-8')
+            }
+        else:
+            # Default: Return ZIP file with both files
+            zip_buffer = BytesIO()
+            with zipfile.ZipFile(zip_buffer, 'w', zipfile.ZIP_DEFLATED) as zip_file:
+                zip_file.writestr('converted.csv', csv_data)
+                zip_file.writestr('converted.xlsx', excel_data)
+            zip_buffer.seek(0)
+            zip_data = zip_buffer.getvalue()
+            
+            return {
+                'statusCode': 200,
+                'headers': {
+                    'Content-Type': 'application/zip',
+                    'Content-Disposition': 'attachment; filename="converted_files.zip"',
+                    'Access-Control-Allow-Origin': '*'
+                },
+                'isBase64Encoded': True,
+                'body': base64.b64encode(zip_data).decode('utf-8')
+            }
         
     except Exception as e:
         print(f"Error: {str(e)}")
@@ -196,3 +234,4 @@ def lambda_handler(event, context):
                 'error': str(e)
             })
         }
+
